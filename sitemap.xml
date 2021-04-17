@@ -47,6 +47,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://seo-for-newbie.kejyun.com/docs/guide/image/</loc>
+    <lastmod>2021-04-17T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://seo-for-newbie.kejyun.com/</loc>
     <lastmod>2021-04-17T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,6 +78,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://seo-for-newbie.kejyun.com/categories/description/</loc>
+    <lastmod>2021-04-17T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://seo-for-newbie.kejyun.com/tags/images/</loc>
+    <lastmod>2021-04-17T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://seo-for-newbie.kejyun.com/categories/images/</loc>
     <lastmod>2021-04-17T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -158,6 +173,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://seo-for-newbie.kejyun.com/categories/url/</loc>
+    <lastmod>2021-04-17T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://seo-for-newbie.kejyun.com/tags/%E5%9C%96%E7%89%87/</loc>
+    <lastmod>2021-04-17T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://seo-for-newbie.kejyun.com/categories/%E5%9C%96%E7%89%87/</loc>
     <lastmod>2021-04-17T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

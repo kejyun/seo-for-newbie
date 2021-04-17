@@ -1,0 +1,80 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – 圖片</title>
+    <link>https://seo-for-newbie.kejyun.com/categories/%E5%9C%96%E7%89%87/</link>
+    <description>Recent content in 圖片 on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/categories/%E5%9C%96%E7%89%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 圖片</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/image/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/image/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;圖片說明&#34;&gt;圖片說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用alt屬性可提供有關圖片的資訊&#34;&gt;使用「alt」屬性可提供有關圖片的資訊&lt;/h3&gt;
+&lt;p&gt;圖片似乎是比較簡單的網站元件，但您可以對圖片的使用進行最佳化。所有圖片都有不同的檔案名稱和「alt」屬性，您可善加利用這兩個特點。如果因為某些原因而無法顯示圖片，「alt」屬性可允許您為圖片指定替代文字 (1)。&lt;/p&gt;
+&lt;p&gt;為什麼使用這個屬性呢?如果使用者在不支援圖片的瀏覽器上檢視您的網站，或使用其他技術 (例如螢幕閱讀器) 檢視網站，alt 屬性的內容就可以提供有關該圖片的資訊。&lt;/p&gt;
+&lt;p&gt;另一個原因是，如果您把圖片作為連結，該圖片的替代文字會被視為類似錨定文字的文字連結。不過，我們不建議您在網站導覽上使用太多圖片連結，因為文字連結就具備相同的功能。最後，將圖片的檔案名稱和替代文字最佳化，可讓「&lt;a href=&#34;https://images.google.com.tw/&#34;&gt;Google圖片搜尋&lt;/a&gt;」這樣的圖片搜尋計劃更容易瞭解您的圖片。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/image/guide-image-1.png&#34; alt=&#34;圖片說明&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;將檔案儲存在專用的目錄中並使用一般檔案格式加以管理&#34;&gt;將檔案儲存在專用的目錄中，並使用一般檔案格式加以管理&lt;/h3&gt;
+&lt;p&gt;考慮將您的圖片檔案合併儲存於單一目錄中 (例如 &lt;code&gt;brandonsbaseballcards.com/images/&lt;/code&gt;)，而不要分散儲存在整個網域的許多目錄和子目錄下。這樣可以簡化圖片的連結路徑。&lt;/p&gt;
+&lt;p&gt;使用普遍受支援的檔案類型-大部分瀏覽器支援 &lt;a href=&#34;http://en.wikipedia.org/wiki/JPEG&#34;&gt;JPEG&lt;/a&gt;、&lt;a href=&#34;http://en.wikipedia.org/wiki/GIF&#34;&gt;GIF&lt;/a&gt;、&lt;a href=&#34;http://en.wikipedia.org/wiki/Portable_Network_Graphics&#34;&gt;PNG&lt;/a&gt; 及 &lt;a href=&#34;http://en.wikipedia.org/wiki/BMP_file_format&#34;&gt;BMP&lt;/a&gt; 圖片格式。最好能夠使檔案名稱的副檔名與檔案類型相符。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/image/guide-image-2.png&#34; alt=&#34;圖片目錄&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;螢幕閱讀器&#34;&gt;螢幕閱讀器&lt;/h4&gt;
+&lt;p&gt;可讀出螢幕資訊或將其輸出為點字顯示的軟體。&lt;/p&gt;
+&lt;h4 id=&#34;ascii語言&#34;&gt;ASCII語言&lt;/h4&gt;
+&lt;p&gt;美國資訊交換標準代碼 (American Standard Code for Information Exchange) 的縮￼￼￼￼寫，是一套以英文字母為主的字元編碼。&lt;/p&gt;
+&lt;h2 id=&#34;圖片做法&#34;&gt;圖片做法&lt;/h2&gt;
+&lt;h3 id=&#34;使用簡單明瞭的檔案名稱和替代文字&#34;&gt;使用簡單明瞭的檔案名稱和替代文字&lt;/h3&gt;
+&lt;p&gt;就像網頁上其他以最佳化為目標的許多部分一樣，對於 ASCII 語言來說，簡單明瞭的檔案名稱和替代文字是最好的。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用「image1.jpg」、「pic.gif」、「1.jpg」這樣的通用檔案名稱 (有些網站的圖片超過數千張，因此可能會為圖片自動命名)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;撰寫過長的檔案名稱&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在替代文字中堆砌關鍵字，或者複製並貼上完整的句子&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;圖片附帶連結時提供替代文字&#34;&gt;圖片附帶連結時，提供替代文字&lt;/h3&gt;
+&lt;p&gt;如果您決定讓圖片附帶連結，建議您填寫替代文字，讓 Google 能夠更瞭解您要連結的網頁。請想像您是在撰寫文字連結的錨定文字。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;撰寫過長的替代文字，系統可能會將其視為垃圾文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在您的網站導覽中僅使用圖片連結&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;提供圖片-sitemap-檔案&#34;&gt;提供圖片 Sitemap 檔案&lt;/h3&gt;
+&lt;p&gt;「&lt;a href=&#34;https://support.google.com/webmasters/answer/178636&#34;&gt;圖片Sitemap檔案&lt;/a&gt;」可提供Googlebot更多在您網站上所找到圖片的相關資訊，其結構類似您網頁的 XMLSitemap 檔案。&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://images.google.com.tw/&#34;&gt;Google圖片搜尋&lt;/a&gt;」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JPEG&#34;&gt;JPEG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/GIF&#34;&gt;GIF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Portable_Network_Graphics&#34;&gt;PNG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BMP_file_format&#34;&gt;BMP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
