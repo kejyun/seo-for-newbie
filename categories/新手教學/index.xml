@@ -42,6 +42,186 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>Docs: Google</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/webmasters/google/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/webmasters/google/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;google-網站管理工具&#34;&gt;Google 網站管理工具&lt;/h2&gt;
+&lt;h3 id=&#34;利用免費的網站管理員工具&#34;&gt;利用免費的網站管理員工具&lt;/h3&gt;
+&lt;p&gt;各大搜尋引擎 (包括 Google) 都為網站管理員提供免費的&lt;a href=&#34;https://www.google.com/webmasters/tools/home?hl=zh-TW&#34;&gt;工具&lt;/a&gt;。Google 的「網站管理員工具」可協助網站管理員更有效地控管 Google 與其網站的互動方式，同時還可從 Google 獲得關於其網站的實用資訊。使用「網站管理員工具」並不會協助您的網站得到任何優惠待遇;但是，它可以協助您找到問題所在，並加以解決，讓您的網站在搜尋結果中取得更佳排名。這項服務可以協助網站管理員:&lt;/p&gt;
+&lt;h3 id=&#34;網站管理工具功能&#34;&gt;網站管理工具功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;查看Googlebot&lt;a href=&#34;https://support.google.com/webmasters/answer/35120?hlrm=cn&#34;&gt;檢索網站的哪個部分時發生了問題&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;通知我們您提交了 &lt;a href=&#34;https://support.google.com/webmasters/answer/156184?hlrm=cn&#34;&gt;XML Sitemap 檔案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/6062608?hl=zh-Hant&amp;amp;rd=1&#34;&gt;分析並產生 robots.txt 檔案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/websearch/troubleshooter/3111061?hl=zh-Hant&amp;amp;rd=1&#34;&gt;移除 Googlebot 已檢索的網址&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/44231?hlrm=cn&#34;&gt;指定偏好網域&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/12/new-content-analysis-and-sitemap.html&#34;&gt;找到 title 中繼標記和 description 中繼標記中的問題&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;瞭解&lt;a href=&#34;https://support.google.com/webmasters/answer/35252?hlrm=cn&#34;&gt;使用者最常使用哪些關鍵字&lt;/a&gt;來找到某個網站&lt;/li&gt;
+&lt;li&gt;看看 &lt;a href=&#34;https://support.google.com/webmasters/answer/35255?hlrm=cn&#34;&gt;Googlebot 如何檢索網頁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/47334?hlrm=cn&#34;&gt;移除不應該出現在Google結果中的網站連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;在違反品質指南時接收通知以及&lt;a href=&#34;https://support.google.com/webmasters/answer/35843?hlrm=cn&#34;&gt;提出網站重新審查申請&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;透過-google-analytics-分析-和google-網站最佳化工具可以進行高階分析&#34;&gt;透過 Google Analytics (分析) 和「Google 網站最佳化工具」可以進行高階分析&lt;/h3&gt;
+&lt;p&gt;如果您已使用「Google 網站管理員工具」或其他服務改善了對您網站的檢索和索引，您或許會對您網站的流量感興趣。「&lt;a href=&#34;http://www.google.com/intl/zh-TW/analytics/&#34;&gt;Google Analytics (分析)&lt;/a&gt;」等網站分析程式是對網站流量進行深入分析的實用工具。這些程式可以協助您:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;深入分析使用者是如何連上您的網站以及他們在您網站上的行為方式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;找出您網站上最受歡迎的內容&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;評估網站最佳化的效果(例如，變更 title 中繼標記和 description 中繼標記是否會提高來自搜尋引擎的流量？)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;對於進階使用者，分析封包所提供的資訊結合了來自伺服器記錄檔的資料，可針對訪客與您文件的互動方式提供更全面的資訊 (例如搜尋者可以用來找到您網站的其他關鍵字)。&lt;/p&gt;
+&lt;p&gt;最後，Google 還提供了另一個叫做「Google 網站最佳化工具」的工具，可讓您透過實驗來找出哪些網頁變更可以創造最佳的訪客轉換率。將「Google Analytics (分析)」和「Google 網站管理員工具」配合使用 (請查看有關使用「&lt;a href=&#34;http://www.youtube.com/watch?v=9yKjrdcC8wA&#34;&gt;Google Trifecta&lt;/a&gt;」的影片) 可以有效改善您的網站。&lt;/p&gt;
+&lt;h2 id=&#34;其他參考資訊&#34;&gt;其他參考資訊&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/support/forum/p/webmasters/&#34;&gt;Google 網站管理員說明論壇&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.com/&#34;&gt;Google網站管理員中心網誌&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com.tw/webmasters/&#34;&gt;Google網站管理員中心&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/webmasters/tools/home?hl=zh-TW&#34;&gt;Google網站管理員工具 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/webmasters/guidelines.html&#34;&gt;Google網站管理員指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/intl/zh-TW/analytics/&#34;&gt;GoogleAnalytics(分析)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/support/webmasters/bin/answer.py?answer=35291&#34;&gt;有關雇用SEO的提示&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/webmasters/tools/home?hl=zh-TW&#34;&gt;Google 網站管理員工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/35120?hlrm=cn&#34;&gt;檢索網站的哪個部分時發生了問題&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/156184?hlrm=cn&#34;&gt;XML Sitemap 檔案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/6062608?hl=zh-Hant&amp;amp;rd=1&#34;&gt;分析並產生 robots.txt 檔案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/websearch/troubleshooter/3111061?hl=zh-Hant&amp;amp;rd=1&#34;&gt;移除 Googlebot 已檢索的網址&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/44231?hlrm=cn&#34;&gt;指定偏好網域&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/12/new-content-analysis-and-sitemap.html&#34;&gt;找到 title 中繼標記和 description 中繼標記中的問題&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/35252?hlrm=cn&#34;&gt;使用者最常使用哪些關鍵字&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/35255?hlrm=cn&#34;&gt;Googlebot 如何檢索網頁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/47334?hlrm=cn&#34;&gt;移除不應該出現在Google結果中的網站連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/35843?hlrm=cn&#34;&gt;提出網站重新審查申請&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=9yKjrdcC8wA&#34;&gt;Google Trifecta&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Sitemap</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/code/sitemap/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/code/sitemap/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;去除-xml-特殊字元&#34;&gt;去除 XML 特殊字元&lt;/h2&gt;
+&lt;h3 id=&#34;正規表示式-php-code&#34;&gt;正規表示式 PHP Code&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;utf8_for_xml&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;$string&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;preg_replace&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;/[^\x{0009}\x{000a}\x{000d}\x{0020}-\x{D7FF}\x{E000}-\x{FFFD}]+/u&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39; &amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;$string&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;);&lt;/span&gt;
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/12229572/php-generated-xml-shows-invalid-char-value-27-message&#34;&gt;character encoding - PHP generated XML shows invalid Char value 27 message - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Yahoo &amp; Bing</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/webmasters/yahoo-and-bing/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/webmasters/yahoo-and-bing/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;yahoo--bing-網站管理工具&#34;&gt;Yahoo &amp;amp; Bing 網站管理工具&lt;/h2&gt;
+&lt;h2 id=&#34;網站管理工具&#34;&gt;網站管理工具&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketing.tw.campaign.yahoo.net/emarketing/searchMarketing/test/preview&#34;&gt;Yahoo關鍵字廣告 - 搜尋量測試&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.yahoo.com/kb/yahoo-merchant-solutions/submit-sitemap-file-search-engines-sln19497.html&#34;&gt;Yahoo Merchant Solutions | - SLN19497 - Submit your sitemap to search engines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketing.tw.campaign.yahoo.net/emarketing/searchMarketing/test/result&#34;&gt;Yahoo關鍵字廣告 - 關鍵字搜尋量與建議工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bing.com/toolbox/webmaster&#34;&gt;Bing - 網站管理員工具&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 告知 Google 爬蟲</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/mobile-website/tell-google-bot/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/mobile-website/tell-google-bot/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;行動網站---指導行動裝置使用者&#34;&gt;行動網站 - 指導行動裝置使用者&lt;/h2&gt;
+&lt;h3 id=&#34;執行網站的電腦版和行動版&#34;&gt;執行網站的電腦版和行動版&lt;/h3&gt;
+&lt;p&gt;網站管理員執行電腦版和行動版的網站時，最常發生的問題就是在桌上型電腦中顯示行動版的網站，或是在行動裝置中顯示電腦版的網站。如要處理這種情形，請參考以下兩種可行的選項:&lt;/p&gt;
+&lt;h3 id=&#34;將行動裝置使用者重新導向至正確的版本&#34;&gt;將行動裝置使用者重新導向至正確的版本&lt;/h3&gt;
+&lt;p&gt;行動裝置使用者或行動檢索器 (例如 Googlebot-Mobile) 存取電腦版的網址時，您可以將他們重新導向至相同網頁對應的行動版網址。Google 注意到兩版網址之間的關係，因此針對來自桌上型電腦的搜尋提供標準版網址，而針對來自行動裝置的搜尋提供行動版網址。&lt;/p&gt;
+&lt;p&gt;如果您想要重新導向使用者，請確定對應的行動版/電腦版網址其內容大致相符 (1)。舉例來說，如果使用者可以從行動電話存取您購物網站的電腦版網址，請確保您會將使用者重新導向至相同產品的行動版網頁，而不是重新導向至網站的行動版首頁。我們不經意發現部分網站透過這種重新導向的方式提升搜尋排名，但此舉只會導致不佳的使用者體驗，而您應不惜一切代價避免這種結果。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/guide-mobile-website-tell-google-bot-1.png&#34; alt=&#34;重新導向手機版使用者目標網頁&#34;&gt;&lt;/p&gt;
+&lt;p&gt;另一方面，當電腦瀏覽器或我們的網路檢索器 (Googlebot) 有行動版網址的存取管道時，您不需將他們重新導向至電腦版網址。舉例來說，&lt;a href=&#34;http://www.google.com.tw/mobile/&#34;&gt;Google&lt;/a&gt; 不會自動將桌上型電腦使用者從行動版網站重新導向至電腦版網站，但會將連結至電腦版網址的連結包含在行動版網頁上，而在行動網站無法提供完整的電腦版網站功能時，這些連結特別有用，因為當使用者想瀏覽電腦版網站時，他們可以透過連結輕鬆瀏覽電腦版網站。&lt;/p&gt;
+&lt;h3 id=&#34;根據使用者代理程式切換內容&#34;&gt;根據使用者代理程式切換內容&lt;/h3&gt;
+&lt;p&gt;部分網站的電腦版內容和行動版內容雖然使用相同的網址，但會根據使用者代理程式而變更內容格式。也就是說，行動裝置使用者和桌上型電腦使用者雖然使用相同網址 (亦即沒有重新導向)，但根據使用者代理程式，系統會稍微變更內容 / 格式。這麼一來，在行動版搜尋和電腦版搜尋中會顯示相同網址，這樣桌上型電腦使用者可以瀏覽電腦版內容，而行動裝置使用者可以瀏覽行動版
+內容 (2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/guide-mobile-website-tell-google-bot-1.png&#34; alt=&#34;根據使用者代理程式切換內容&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但請注意，如果您無法正確設定網站，那麼系統可能會將您的網站視為&lt;a href=&#34;https://support.google.com/webmasters/answer/66355&#34;&gt;偽裝&lt;/a&gt;，導致您的網站從我們的搜尋結果中消失。偽裝是指提供不同的內容給 Googlebot 和一般使用者，藉機提升搜尋結果排名。這麼做會發生問題，例如關聯性較低的結果 (即使網頁的內容與使用者搜尋 / 想要的內容沒有關係，卻還是出現在搜尋結果中)，因此我們非常重視偽裝問題。&lt;/p&gt;
+&lt;p&gt;那麼在您提供相同網址給兩個版本的情況下，「使用者所見網頁」網站代表什麼意思?如前所述，Google 在網頁搜尋中使用 Googlebot，在行動搜尋中使用 Googlebot-Mobile，而為了符合我們的指南，您提供給 Googlebot 的內容應與一般桌上型電腦使用者所見內容相同，且提供給 Googlebot-Mobile 的內容應與您提供給一般行動裝置上的瀏覽器的內容相同，但如果是 Googlebot 和 Googlebot-Mobile 的內容相異，那麼倒是沒有關係。&lt;/p&gt;
+&lt;p&gt;系統無意間將您的網站視為偽裝的情況，可能是因為您的網站將「請從行動電話瀏覽」等相似訊息傳回桌上型電腦瀏覽器，但接著卻將完整的行動版網站傳回兩種檢索器 (因此 Googlebot 接收到行動版)，如此一來，使用網路搜尋的使用者看見的網頁 (例如「請從行動電話瀏覽」) 和 Googlebot 檢索的網頁 (例如「歡迎來到我的網站」)會不一樣。再次強調，我們偵測偽裝是因為我們想要將 Googlebot 或 Googlebot-Mobile 已檢索的同樣相關內容提供給使用者。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;重新導向&#34;&gt;重新導向&lt;/h4&gt;
+&lt;p&gt;使用者瀏覽網站時，可以自動從一個指定網頁跳至另一個指定網頁。&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com.tw/mobile/&#34;&gt;Google 的行動搜尋網頁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/66355&#34;&gt;偽裝&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 指南</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 文件</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/reference/document/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/reference/document/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;google&#34;&gt;Google&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moz.com/search-ranking-factors&#34;&gt;Search Engine Ranking Factors 2015 - Moz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 標題</title>
       <link>https://seo-for-newbie.kejyun.com/docs/guide/web-title/</link>
       <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
@@ -100,19 +280,6 @@ git submodule update --init --recursive
 &lt;li&gt;&lt;a href=&#34;https://support.google.com/websearch/answer/35891&#34;&gt;Google搜尋結果網頁示意圖&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 指南</title>
-      <link>https://seo-for-newbie.kejyun.com/docs/guide/</link>
-      <pubDate>Thu, 08 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://seo-for-newbie.kejyun.com/docs/guide/</guid>
-      <description>
-        
-        
-        
       </description>
     </item>
     
@@ -178,6 +345,189 @@ git submodule update --init --recursive
 &lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/09/improve-snippets-with-meta-description.html&#34;&gt;改善網頁摘要的實用文章&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Search Console</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/search-console/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/search-console/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;api&#34;&gt;API&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/apis-explorer/#p/webmasters/v3/&#34;&gt;Google APIs Explorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/api-client-library/&#34;&gt;API Client Libraries | Google Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://console.developers.google.com/start/api?id=webmasters&amp;amp;credential=client_key&#34;&gt;Enable an API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;套件&#34;&gt;套件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/google-api-php-client&#34;&gt;PHP - GitHub - google/google-api-php-client: A PHP client library for accessing Google APIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考文章&#34;&gt;參考文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://netpeak.net/blog/how-to-save-and-analyse-data-from-search-console-in-google-sheets/&#34;&gt;How to Save and Analyse Data from Search Console in Google Sheets — Netpeak Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://searchengineland.com/use-googles-search-console-api-pivot-tables-supercharge-long-tail-seo-236133&#34;&gt;Use Google’s Search Console API &amp;amp; Pivot Tables To Supercharge Your Long-Tail SEO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/37942676/setassertioncredentials-on-google-api-php-client-2-0&#34;&gt;setAssertionCredentials on google-api-php-client 2.0 - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;issue&#34;&gt;Issue&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/google-api-php-client/issues/8&#34;&gt;Google Tasks - Error calling GET - (401) Login Required · Issue #8 · google/google-api-php-client · GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;laravel&#34;&gt;Laravel&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pulkitjalan/google-apiclient/tree/2.0.2&#34;&gt;GitHub - pulkitjalan/google-apiclient at 2.0.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laracasts.com/discuss/channels/tips/google-api-service-account-connection-laravel-5&#34;&gt;Google API - Service account connection - Laravel 5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 工具</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/reference/tool/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/reference/tool/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;套件&#34;&gt;套件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc/related?utm_source=chrome-ntp-icon&#34;&gt;SEOquake - Chrome Web Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/open-in-semrush/chgblofegkokcojhgjfgfdbgbcalnpml?utm_source=chrome-ntp-icon&#34;&gt;Open in SEMrush - Chrome Web Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://majestic.com/&#34;&gt;Majestic®: Marketing Search Engine and SEO Backlink Checker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moz.com/&#34;&gt;Moz | SEO Software, Tools &amp;amp; Resources for Smarter Marketing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moz.com/free-seo-tools&#34;&gt;World&amp;rsquo;s Best SEO Tools and Free Search Software | Moz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moz.com/researchtools/ose/&#34;&gt;Open Site Explorer: Link Research &amp;amp; Backlink Checker | Moz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;google&#34;&gt;Google&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://adwords.google.com.tw/KeywordPlanner&#34;&gt;關鍵字工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/trends/topcharts&#34;&gt;Google 搜尋趨勢 - 所有類別熱門排行榜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/trends/&#34;&gt;Google 搜尋趨勢&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/trends/explore&#34;&gt;Google 搜尋趨勢 - Google 網頁搜尋的熱門度 - 全球, 2004年至今&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adwords.google.com/KeywordPlanner&#34;&gt;Google AdWords 關鍵字規劃工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.prchecker.info/&#34;&gt;Google PageRank Checker - Check Google page rank of any web pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/webmasters/tools/home?hl=zh-TW&#34;&gt;Google 網站管理員工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/support/forum/p/webmasters/&#34;&gt;Google 網站管理員說明論壇&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.com/&#34;&gt;Google網站管理員中心網誌&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com.tw/webmasters/&#34;&gt;Google網站管理員中心&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/webmasters/tools/home?hl=zh-TW&#34;&gt;Google網站管理員工具 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/webmasters/guidelines.html&#34;&gt;Google網站管理員指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/intl/zh-TW/analytics/&#34;&gt;GoogleAnalytics(分析)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/support/webmasters/bin/answer.py?answer=35291&#34;&gt;有關雇用SEO的提示&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;yahoo--bing&#34;&gt;Yahoo &amp;amp; Bing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketing.tw.campaign.yahoo.net/emarketing/searchMarketing/test/preview&#34;&gt;Yahoo關鍵字廣告 - 搜尋量測試&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.yahoo.com/kb/yahoo-merchant-solutions/submit-sitemap-file-search-engines-sln19497.html&#34;&gt;Yahoo Merchant Solutions | - SLN19497 - Submit your sitemap to search engines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketing.tw.campaign.yahoo.net/emarketing/searchMarketing/test/result&#34;&gt;Yahoo關鍵字廣告 - 關鍵字搜尋量與建議工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bing.com/toolbox/webmaster&#34;&gt;Bing - 網站管理員工具&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;中國搜尋引擎&#34;&gt;中國搜尋引擎&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://index.baidu.com/&#34;&gt;百度指数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hot.baidu.com/&#34;&gt;百度沸點&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://top.baidu.com/&#34;&gt;百度搜索風雲榜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://top.sogou.com/&#34;&gt;搜狗每日熱搜詞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.swkong.com/keywords&#34;&gt;孫悟空關鍵字&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 指導行動裝置</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/mobile-website/direct-mobile-user/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/mobile-website/direct-mobile-user/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;行動網站---指導行動裝置使用者&#34;&gt;行動網站 - 指導行動裝置使用者&lt;/h2&gt;
+&lt;h3 id=&#34;執行網站的電腦版和行動版&#34;&gt;執行網站的電腦版和行動版&lt;/h3&gt;
+&lt;p&gt;網站管理員執行電腦版和行動版的網站時，最常發生的問題就是在桌上型電腦中顯示行動版的網站，或是在行動裝置中顯示電腦版的網站。如要處理這種情形，請參考以下兩種可行的選項:&lt;/p&gt;
+&lt;h3 id=&#34;將行動裝置使用者重新導向至正確的版本&#34;&gt;將行動裝置使用者重新導向至正確的版本&lt;/h3&gt;
+&lt;p&gt;行動裝置使用者或行動檢索器 (例如 Googlebot-Mobile) 存取電腦版的網址時，您可以將他們重新導向至相同網頁對應的行動版網址。Google 注意到兩版網址之間的關係，因此針對來自桌上型電腦的搜尋提供標準版網址，而針對來自行動裝置的搜尋提供行動版網址。&lt;/p&gt;
+&lt;p&gt;如果您想要重新導向使用者，請確定對應的行動版/電腦版網址其內容大致相符 (1)。舉例來說，如果使用者可以從行動電話存取您購物網站的電腦版網址，請確保您會將使用者重新導向至相同產品的行動版網頁，而不是重新導向至網站的行動版首頁。我們不經意發現部分網站透過這種重新導向的方式提升搜尋排名，但此舉只會導致不佳的使用者體驗，而您應不惜一切代價避免這種結果。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/guide-mobile-website-direct-mobile-user-1.png&#34; alt=&#34;重新導向手機版使用者目標網頁&#34;&gt;&lt;/p&gt;
+&lt;p&gt;另一方面，當電腦瀏覽器或我們的網路檢索器 (Googlebot) 有行動版網址的存取管道時，您不需將他們重新導向至電腦版網址。舉例來說，&lt;a href=&#34;http://www.google.com.tw/mobile/&#34;&gt;Google&lt;/a&gt; 不會自動將桌上型電腦使用者從行動版網站重新導向至電腦版網站，但會將連結至電腦版網址的連結包含在行動版網頁上，而在行動網站無法提供完整的電腦版網站功能時，這些連結特別有用，因為當使用者想瀏覽電腦版網站時，他們可以透過連結輕鬆瀏覽電腦版網站。&lt;/p&gt;
+&lt;h3 id=&#34;根據使用者代理程式切換內容&#34;&gt;根據使用者代理程式切換內容&lt;/h3&gt;
+&lt;p&gt;部分網站的電腦版內容和行動版內容雖然使用相同的網址，但會根據使用者代理程式而變更內容格式。也就是說，行動裝置使用者和桌上型電腦使用者雖然使用相同網址 (亦即沒有重新導向)，但根據使用者代理程式，系統會稍微變更內容 / 格式。這麼一來，在行動版搜尋和電腦版搜尋中會顯示相同網址，這樣桌上型電腦使用者可以瀏覽電腦版內容，而行動裝置使用者可以瀏覽行動版
+內容 (2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/guide-mobile-website-direct-mobile-user-2.png&#34; alt=&#34;根據使用者代理程式切換內容&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但請注意，如果您無法正確設定網站，那麼系統可能會將您的網站視為&lt;a href=&#34;https://support.google.com/webmasters/answer/66355&#34;&gt;偽裝&lt;/a&gt;，導致您的網站從我們的搜尋結果中消失。偽裝是指提供不同的內容給 Googlebot 和一般使用者，藉機提升搜尋結果排名。這麼做會發生問題，例如關聯性較低的結果 (即使網頁的內容與使用者搜尋 / 想要的內容沒有關係，卻還是出現在搜尋結果中)，因此我們非常重視偽裝問題。&lt;/p&gt;
+&lt;p&gt;那麼在您提供相同網址給兩個版本的情況下，「使用者所見網頁」網站代表什麼意思?如前所述，Google 在網頁搜尋中使用 Googlebot，在行動搜尋中使用 Googlebot-Mobile，而為了符合我們的指南，您提供給 Googlebot 的內容應與一般桌上型電腦使用者所見內容相同，且提供給 Googlebot-Mobile 的內容應與您提供給一般行動裝置上的瀏覽器的內容相同，但如果是 Googlebot 和 Googlebot-Mobile 的內容相異，那麼倒是沒有關係。&lt;/p&gt;
+&lt;p&gt;系統無意間將您的網站視為偽裝的情況，可能是因為您的網站將「請從行動電話瀏覽」等相似訊息傳回桌上型電腦瀏覽器，但接著卻將完整的行動版網站傳回兩種檢索器 (因此 Googlebot 接收到行動版)，如此一來，使用網路搜尋的使用者看見的網頁 (例如「請從行動電話瀏覽」) 和 Googlebot 檢索的網頁 (例如「歡迎來到我的網站」)會不一樣。再次強調，我們偵測偽裝是因為我們想要將 Googlebot 或 Googlebot-Mobile 已檢索的同樣相關內容提供給使用者。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;重新導向&#34;&gt;重新導向&lt;/h4&gt;
+&lt;p&gt;使用者瀏覽網站時，可以自動從一個指定網頁跳至另一個指定網頁。&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com.tw/mobile/&#34;&gt;Google 的行動搜尋網頁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/66355&#34;&gt;偽裝&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 結構化資料</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/code/structured-data/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/code/structured-data/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://search.google.com/test/rich-results&#34;&gt;複合式搜尋結果測試 - Google Search Console&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://search.google.com/structured-data/testing-tool&#34;&gt;結構化資料測試工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/webmasters/markup-helper/u/0/&#34;&gt;結構化資料標記協助工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.minwt.com/website/wordpress/18850.html&#34;&gt;Google官方提供網頁「結構化資料標記」產生器，並套用到WordPress中|梅問題．教學網&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Search Console</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/reference/search-console/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/reference/search-console/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;禁止反向連結&#34;&gt;禁止反向連結&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/2648487&#34;&gt;禁止反向連結 - Search Console說明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/webmasters/tools/disavow-links-main&#34;&gt;Search Console Disavow links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 程式</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/code/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/code/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     
@@ -605,6 +955,200 @@ git submodule update --init --recursive
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BMP_file_format&#34;&gt;BMP&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 內文標題</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/content-title/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/content-title/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;標題說明&#34;&gt;標題說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用標題標記強調重要的文字&#34;&gt;使用標題標記強調重要的文字&lt;/h3&gt;
+&lt;p&gt;標題標記 (請&lt;code&gt;不要&lt;/code&gt;和 &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; HTML 標記或 HTTP 標頭混淆) 是用於為使用者呈現網頁的結構。標題標記有六種不同大小，從 &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; 到 &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt;，其重要性依次降低 (1)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/content-title/guide-content-title-1.png&#34; alt=&#34;標題 HTML tag 說明&#34;&gt;&lt;/p&gt;
+&lt;p&gt;由於標題標記通常會使其中包含的文字比網頁上的普通文字大一些，因此使用者可以清楚意識到這部分文字比較重要，而且可以幫助他們瞭解標題文字下的內容類型。按順序使用的多個標題大小可為您的內容建立層次分明的結構，從而讓使用者更容易瀏覽您的文件。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;http標頭&#34;&gt;HTTP標頭&lt;/h4&gt;
+&lt;p&gt;在HTTP(超文字傳輸通訊協定)中，傳送實際資料本身之前先行傳送的不同類型資料。&lt;/p&gt;
+&lt;h4 id=&#34;em&#34;&gt;&lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;標示強調的HTML標記。根據標準，這個標記會使用斜體字型表示強調。&lt;/p&gt;
+&lt;h4 id=&#34;strong&#34;&gt;&lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;標示特別強調的HTML標記。根據標準，這個標記會使用粗體字型表示強調。&lt;/p&gt;
+&lt;h4 id=&#34;萬用字元&#34;&gt;萬用字元&lt;/h4&gt;
+&lt;p&gt;替代任何其他字元或字元串的字元 (&lt;code&gt;*&lt;/code&gt;)。&lt;/p&gt;
+&lt;h4 id=&#34;htaccess&#34;&gt;.htaccess&lt;/h4&gt;
+&lt;p&gt;超文字存取檔案，可讓您管理網路伺服器設定。&lt;/p&gt;
+&lt;h4 id=&#34;參照記錄&#34;&gt;參照記錄&lt;/h4&gt;
+&lt;p&gt;寫入存取記錄的參照資訊。加以追蹤即可瞭解訪客的來源網站。&lt;/p&gt;
+&lt;h2 id=&#34;標題做法&#34;&gt;標題做法&lt;/h2&gt;
+&lt;h3 id=&#34;想像您在撰寫一份大綱&#34;&gt;想像您在撰寫一份大綱&lt;/h3&gt;
+&lt;p&gt;與撰寫一份報告的大綱相似，考慮網頁內容的主要及次要觀點，然後決定標題標記要放在哪些適當的位置。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在標題標記中放置對定義網頁結構沒有任何幫助的文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在適合使用其他標記 (例如&lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;和&lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;) 的地方使用標題標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;隨意調整標題標記的大小&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;在網頁上謹慎使用標題標記&#34;&gt;在網頁上謹慎使用標題標記&lt;/h3&gt;
+&lt;p&gt;僅在適合的位置使用標題標記。網頁上如果有太多標題標記，會對使用者瀏覽內容造成不便，並且會讓使用者難以確定內容主題的開頭和結尾為何。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在網頁中過度使用標題標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;將所有網頁文字都放進標題標記中&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用標題標記僅是為了設定文字樣式，而不是為了呈現結構&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 宣傳</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/propaganda-website-the-right-way/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/propaganda-website-the-right-way/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;宣傳說明&#34;&gt;宣傳說明&lt;/h2&gt;
+&lt;h3 id=&#34;關於增加反向連結以提升網站的價值&#34;&gt;關於增加反向連結以提升網站的價值&lt;/h3&gt;
+&lt;p&gt;隨著人們透過搜尋或其他方式發現了您的內容並連至這些內容，多數連至您網站的連結會被逐漸找到，Google 明白您想要其他人瞭解到您在內容中投入了很多精力。有效地宣傳您的新內容會使得那些對同一主題感興趣的人更快地發現您的網站 (1)。如同本文件所提到的多數要點一樣，過度推薦實際上會損害您網站的信譽。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/propaganda-website-the-right-way/guide-propaganda-website-the-right-way-1.png&#34; alt=&#34;透過知名網站的反向連結推薦您的網站&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;擅長在網誌上發佈通告並擁有極高的線上知名度&#34;&gt;擅長在網誌上發佈通告並擁有極高的線上知名度&lt;/h3&gt;
+&lt;p&gt;在您自己網站上撰寫網誌文章，讓您的訪客知道您新增了內容，這是宣傳新內容或服務的絕佳方法。其他關注您網站或 RSS 資訊提供的網站管理員也會瞭解到該內容。&lt;/p&gt;
+&lt;p&gt;將一些精力投入到公司或網站的離線宣傳也會很有成效。例如，如果您有一個商業網站，請務必將該網站的網址列於您的商務名片、信頭、海報等。您也可以透過郵件向客戶傳送定期商業簡訊，讓他們瞭解公司網站上的新內容。&lt;/p&gt;
+&lt;p&gt;如果您經營一家當地商家，那麼將商家資訊加入「&lt;a href=&#34;https://www.google.com/intl/zh-TW/business/&#34;&gt;Google 我的商家&lt;/a&gt;」，即可協助您在「Google 地圖」和網路搜尋上開發客戶。「網站管理員說明中心」提供更多如何&lt;a href=&#34;https://support.google.com/webmasters/answer/92319&#34;&gt;宣傳當地商家&lt;/a&gt;的提示。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/propaganda-website-the-right-way/guide-propaganda-website-the-right-way-2.png&#34; alt=&#34;Google 我的商家&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;rss資訊提供&#34;&gt;RSS資訊提供&lt;/h4&gt;
+&lt;p&gt;含有完整或概括文字的資料，用來描述網站 / 網誌的更新。RSS 是 RDF Site Summary (RDF網站摘要) 的縮寫，而使用相似資料格式的服務稱為 Atom。&lt;/p&gt;
+&lt;h2 id=&#34;宣傳做法&#34;&gt;宣傳做法&lt;/h2&gt;
+&lt;h3 id=&#34;了解社交媒體網站&#34;&gt;了解社交媒體網站&lt;/h3&gt;
+&lt;p&gt;透過圍繞使用者互動和共用而建立的網站，可以更輕鬆地將感興趣的人群與相關內容進行搭配。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;鉅細靡遺地宣傳每項新內容;建議您將推廣集中在那些重要有趣的項目上&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;將您的內容人為提升至這些服務前列，使得網站涉嫌作弊行為&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;接觸與您的網站相關的社群中的網站&#34;&gt;接觸與您的網站相關的社群中的網站&lt;/h3&gt;
+&lt;p&gt;機會就存在於那些與您的網站具有相似主題內容的網站中。與這些網站建立溝通往往大有裨益。最佳您的利基或社群中的熱門主題會激發更多靈感，從而讓您的內容更豐富或建立優秀的社群資源。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;向所有與您主題內容相關的網站濫發連結請求透過從其他網站購買連結以獲得 PageRank (而不是流量)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/intl/zh-TW/business/&#34;&gt;Google 我的商家&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/92319&#34;&gt;宣傳當地商家&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.prchecker.info/&#34;&gt;Google PageRank Checker - Check Google page rank of any web pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: robots.txt</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/robots-txt/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/robots-txt/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;robottxt-說明&#34;&gt;robot.txt 說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用robotstxt限制搜尋引擎對無需檢索的部分進行檢索&#34;&gt;使用robots.txt限制搜尋引擎對無需檢索的部分進行檢索&lt;/h3&gt;
+&lt;p&gt;「robots.txt」檔案可告知搜尋引擎是否可以存取您網站的某些部分，進而對這些部分進行檢索 (1)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/robots-txt/guide-robots-txt-1.png&#34; alt=&#34;robots.txt 資料內容&#34;&gt;&lt;/p&gt;
+&lt;p&gt;這個檔案必須命名為「robots.txt」，並放置在您網站的根目錄中(2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/robots-txt/guide-robots-txt-2.png&#34; alt=&#34;robots.txt 檔案位置&#34;&gt;&lt;/p&gt;
+&lt;p&gt;您可能不希望搜尋引擎檢索網站中的某些網頁，因為這些出現在搜尋結果中的網頁，對使用者而言並無益處。如果您確實想阻止搜尋引擎檢索您的網頁，「Google網站管理員工具」中有一個很好用的 &lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/03/speaking-language-of-robots.html&#34;&gt;robots.txt 產生器&lt;/a&gt;，可協助您建立這個檔案。請注意，如果您的網站使用了子網域，且您不希望搜尋引擎檢索特定子網域中的某些網頁，則您必須為該子網域建立一個單獨的 robots.txt 檔案。如需更多有關 robots.txt 的資訊，我們建議您參閱有關使用 &lt;a href=&#34;https://support.google.com/webmasters/answer/6062608?hl=zh-Hant&amp;amp;rd=1&#34;&gt;robots.txt 檔案&lt;/a&gt;的「網站管理員說明中心」指南。&lt;/p&gt;
+&lt;p&gt;另有幾種方法可以避免您的內容出現在搜尋結果中，例如為您的 robots 中繼標記新增「&lt;code&gt;NOINDEX&lt;/code&gt;」、使用 &lt;code&gt;.htaccess&lt;/code&gt; 對目錄進行密碼保護，以及使用「Google網站管理員工具」移除已檢索的內容。Google工程師 MattCutts 在一部實用影片中詳細解說了&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/01/remove-your-content-from-google.html&#34;&gt;每種網址封鎖方法的注意事項&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;漫遊器排除標準&#34;&gt;漫遊器排除標準&lt;/h4&gt;
+&lt;p&gt;避免讓網路自動尋檢程式 / 檢索器 (例如 Googlebot) 存取網站全部內容或部分內容的慣例，允許的話則會讓內容公開曝光。&lt;/p&gt;
+&lt;h4 id=&#34;proxy服務&#34;&gt;Proxy服務&lt;/h4&gt;
+&lt;p&gt;內部網路和外部網路都在連線中的行況下，取代連線功能的電腦或軟體。&lt;/p&gt;
+&lt;h2 id=&#34;robottxt做法&#34;&gt;robot.txt做法&lt;/h2&gt;
+&lt;h3 id=&#34;對敏感的內容使用更為安全的方法&#34;&gt;對敏感的內容使用更為安全的方法&lt;/h3&gt;
+&lt;p&gt;您或許對使用 robots.txt 來封鎖敏感或機密資料感覺不是特別放心。其中一個原因是，如果網際網路上碰巧存在連至您封鎖網址的連結 (例如參照記錄)，則搜尋引擎仍然可以參照該網址 (只是顯示網址，而不顯示標題或摘要)。&lt;/p&gt;
+&lt;p&gt;此外，一些不符合條件的搜尋引擎或惡意搜尋引擎並不遵守「漫遊器排除標準」，可能會違背您的 robots.txt 指示。最後，好奇的使用者可能會查看您 robots.txt 檔案中的目錄或子目錄，並猜中您不想曝光的內容網址。對內容加密或使用 .htaccess 對內容進行密碼保護是更安全的選擇。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索類似搜尋結果的網頁(使用者不喜歡從一個搜尋結果網頁進入另一個搜尋結果網頁，這對他們而言沒有多大價值)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索大量自動產生的且內容相同或稍有不同的網頁:「難道這100,000個近乎相同的網頁真的應該在搜尋引擎的索引中出現嗎？」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索因Proxy服務而建立的網址&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/03/speaking-language-of-robots.html&#34;&gt;robots.txt 產生器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/6062608?hl=zh-Hant&amp;amp;rd=1&#34;&gt;robots.txt 檔案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/01/remove-your-content-from-google.html&#34;&gt;每種網址封鎖方法的注意事項&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 行動網站</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/mobile-website/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/mobile-website/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 網站管理員工具</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/webmasters/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/webmasters/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 參考資料</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/reference/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/reference/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     

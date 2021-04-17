@@ -1,0 +1,60 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – Search Console</title>
+    <link>https://seo-for-newbie.kejyun.com/categories/search-console/</link>
+    <description>Recent content in Search Console on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/categories/search-console/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Search Console</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/search-console/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/search-console/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;api&#34;&gt;API&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/apis-explorer/#p/webmasters/v3/&#34;&gt;Google APIs Explorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/api-client-library/&#34;&gt;API Client Libraries | Google Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://console.developers.google.com/start/api?id=webmasters&amp;amp;credential=client_key&#34;&gt;Enable an API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;套件&#34;&gt;套件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/google-api-php-client&#34;&gt;PHP - GitHub - google/google-api-php-client: A PHP client library for accessing Google APIs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考文章&#34;&gt;參考文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://netpeak.net/blog/how-to-save-and-analyse-data-from-search-console-in-google-sheets/&#34;&gt;How to Save and Analyse Data from Search Console in Google Sheets — Netpeak Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://searchengineland.com/use-googles-search-console-api-pivot-tables-supercharge-long-tail-seo-236133&#34;&gt;Use Google’s Search Console API &amp;amp; Pivot Tables To Supercharge Your Long-Tail SEO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/37942676/setassertioncredentials-on-google-api-php-client-2-0&#34;&gt;setAssertionCredentials on google-api-php-client 2.0 - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;issue&#34;&gt;Issue&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/google-api-php-client/issues/8&#34;&gt;Google Tasks - Error calling GET - (401) Login Required · Issue #8 · google/google-api-php-client · GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;laravel&#34;&gt;Laravel&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pulkitjalan/google-apiclient/tree/2.0.2&#34;&gt;GitHub - pulkitjalan/google-apiclient at 2.0.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laracasts.com/discuss/channels/tips/google-api-service-account-connection-laravel-5&#34;&gt;Google API - Service account connection - Laravel 5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

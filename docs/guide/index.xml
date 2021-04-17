@@ -5,7 +5,7 @@
     <description>Recent content in 指南 on SEO 菜雞修煉場</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 08 Apr 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://seo-for-newbie.kejyun.com/docs/guide/index.xml" rel="self" type="application/rss+xml" />
     
@@ -566,6 +566,187 @@
 &lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BMP_file_format&#34;&gt;BMP&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 內文標題</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/content-title/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/content-title/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;標題說明&#34;&gt;標題說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用標題標記強調重要的文字&#34;&gt;使用標題標記強調重要的文字&lt;/h3&gt;
+&lt;p&gt;標題標記 (請&lt;code&gt;不要&lt;/code&gt;和 &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; HTML 標記或 HTTP 標頭混淆) 是用於為使用者呈現網頁的結構。標題標記有六種不同大小，從 &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; 到 &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt;，其重要性依次降低 (1)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/content-title/guide-content-title-1.png&#34; alt=&#34;標題 HTML tag 說明&#34;&gt;&lt;/p&gt;
+&lt;p&gt;由於標題標記通常會使其中包含的文字比網頁上的普通文字大一些，因此使用者可以清楚意識到這部分文字比較重要，而且可以幫助他們瞭解標題文字下的內容類型。按順序使用的多個標題大小可為您的內容建立層次分明的結構，從而讓使用者更容易瀏覽您的文件。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;http標頭&#34;&gt;HTTP標頭&lt;/h4&gt;
+&lt;p&gt;在HTTP(超文字傳輸通訊協定)中，傳送實際資料本身之前先行傳送的不同類型資料。&lt;/p&gt;
+&lt;h4 id=&#34;em&#34;&gt;&lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;標示強調的HTML標記。根據標準，這個標記會使用斜體字型表示強調。&lt;/p&gt;
+&lt;h4 id=&#34;strong&#34;&gt;&lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;標示特別強調的HTML標記。根據標準，這個標記會使用粗體字型表示強調。&lt;/p&gt;
+&lt;h4 id=&#34;萬用字元&#34;&gt;萬用字元&lt;/h4&gt;
+&lt;p&gt;替代任何其他字元或字元串的字元 (&lt;code&gt;*&lt;/code&gt;)。&lt;/p&gt;
+&lt;h4 id=&#34;htaccess&#34;&gt;.htaccess&lt;/h4&gt;
+&lt;p&gt;超文字存取檔案，可讓您管理網路伺服器設定。&lt;/p&gt;
+&lt;h4 id=&#34;參照記錄&#34;&gt;參照記錄&lt;/h4&gt;
+&lt;p&gt;寫入存取記錄的參照資訊。加以追蹤即可瞭解訪客的來源網站。&lt;/p&gt;
+&lt;h2 id=&#34;標題做法&#34;&gt;標題做法&lt;/h2&gt;
+&lt;h3 id=&#34;想像您在撰寫一份大綱&#34;&gt;想像您在撰寫一份大綱&lt;/h3&gt;
+&lt;p&gt;與撰寫一份報告的大綱相似，考慮網頁內容的主要及次要觀點，然後決定標題標記要放在哪些適當的位置。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在標題標記中放置對定義網頁結構沒有任何幫助的文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在適合使用其他標記 (例如&lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;和&lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;) 的地方使用標題標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;隨意調整標題標記的大小&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;在網頁上謹慎使用標題標記&#34;&gt;在網頁上謹慎使用標題標記&lt;/h3&gt;
+&lt;p&gt;僅在適合的位置使用標題標記。網頁上如果有太多標題標記，會對使用者瀏覽內容造成不便，並且會讓使用者難以確定內容主題的開頭和結尾為何。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在網頁中過度使用標題標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;將所有網頁文字都放進標題標記中&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用標題標記僅是為了設定文字樣式，而不是為了呈現結構&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 宣傳</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/propaganda-website-the-right-way/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/propaganda-website-the-right-way/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;宣傳說明&#34;&gt;宣傳說明&lt;/h2&gt;
+&lt;h3 id=&#34;關於增加反向連結以提升網站的價值&#34;&gt;關於增加反向連結以提升網站的價值&lt;/h3&gt;
+&lt;p&gt;隨著人們透過搜尋或其他方式發現了您的內容並連至這些內容，多數連至您網站的連結會被逐漸找到，Google 明白您想要其他人瞭解到您在內容中投入了很多精力。有效地宣傳您的新內容會使得那些對同一主題感興趣的人更快地發現您的網站 (1)。如同本文件所提到的多數要點一樣，過度推薦實際上會損害您網站的信譽。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/propaganda-website-the-right-way/guide-propaganda-website-the-right-way-1.png&#34; alt=&#34;透過知名網站的反向連結推薦您的網站&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;擅長在網誌上發佈通告並擁有極高的線上知名度&#34;&gt;擅長在網誌上發佈通告並擁有極高的線上知名度&lt;/h3&gt;
+&lt;p&gt;在您自己網站上撰寫網誌文章，讓您的訪客知道您新增了內容，這是宣傳新內容或服務的絕佳方法。其他關注您網站或 RSS 資訊提供的網站管理員也會瞭解到該內容。&lt;/p&gt;
+&lt;p&gt;將一些精力投入到公司或網站的離線宣傳也會很有成效。例如，如果您有一個商業網站，請務必將該網站的網址列於您的商務名片、信頭、海報等。您也可以透過郵件向客戶傳送定期商業簡訊，讓他們瞭解公司網站上的新內容。&lt;/p&gt;
+&lt;p&gt;如果您經營一家當地商家，那麼將商家資訊加入「&lt;a href=&#34;https://www.google.com/intl/zh-TW/business/&#34;&gt;Google 我的商家&lt;/a&gt;」，即可協助您在「Google 地圖」和網路搜尋上開發客戶。「網站管理員說明中心」提供更多如何&lt;a href=&#34;https://support.google.com/webmasters/answer/92319&#34;&gt;宣傳當地商家&lt;/a&gt;的提示。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/propaganda-website-the-right-way/guide-propaganda-website-the-right-way-2.png&#34; alt=&#34;Google 我的商家&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;rss資訊提供&#34;&gt;RSS資訊提供&lt;/h4&gt;
+&lt;p&gt;含有完整或概括文字的資料，用來描述網站 / 網誌的更新。RSS 是 RDF Site Summary (RDF網站摘要) 的縮寫，而使用相似資料格式的服務稱為 Atom。&lt;/p&gt;
+&lt;h2 id=&#34;宣傳做法&#34;&gt;宣傳做法&lt;/h2&gt;
+&lt;h3 id=&#34;了解社交媒體網站&#34;&gt;了解社交媒體網站&lt;/h3&gt;
+&lt;p&gt;透過圍繞使用者互動和共用而建立的網站，可以更輕鬆地將感興趣的人群與相關內容進行搭配。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;鉅細靡遺地宣傳每項新內容;建議您將推廣集中在那些重要有趣的項目上&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;將您的內容人為提升至這些服務前列，使得網站涉嫌作弊行為&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;接觸與您的網站相關的社群中的網站&#34;&gt;接觸與您的網站相關的社群中的網站&lt;/h3&gt;
+&lt;p&gt;機會就存在於那些與您的網站具有相似主題內容的網站中。與這些網站建立溝通往往大有裨益。最佳您的利基或社群中的熱門主題會激發更多靈感，從而讓您的內容更豐富或建立優秀的社群資源。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;向所有與您主題內容相關的網站濫發連結請求透過從其他網站購買連結以獲得 PageRank (而不是流量)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/intl/zh-TW/business/&#34;&gt;Google 我的商家&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/92319&#34;&gt;宣傳當地商家&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.prchecker.info/&#34;&gt;Google PageRank Checker - Check Google page rank of any web pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: robots.txt</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/robots-txt/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/robots-txt/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;robottxt-說明&#34;&gt;robot.txt 說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用robotstxt限制搜尋引擎對無需檢索的部分進行檢索&#34;&gt;使用robots.txt限制搜尋引擎對無需檢索的部分進行檢索&lt;/h3&gt;
+&lt;p&gt;「robots.txt」檔案可告知搜尋引擎是否可以存取您網站的某些部分，進而對這些部分進行檢索 (1)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/robots-txt/guide-robots-txt-1.png&#34; alt=&#34;robots.txt 資料內容&#34;&gt;&lt;/p&gt;
+&lt;p&gt;這個檔案必須命名為「robots.txt」，並放置在您網站的根目錄中(2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/robots-txt/guide-robots-txt-2.png&#34; alt=&#34;robots.txt 檔案位置&#34;&gt;&lt;/p&gt;
+&lt;p&gt;您可能不希望搜尋引擎檢索網站中的某些網頁，因為這些出現在搜尋結果中的網頁，對使用者而言並無益處。如果您確實想阻止搜尋引擎檢索您的網頁，「Google網站管理員工具」中有一個很好用的 &lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/03/speaking-language-of-robots.html&#34;&gt;robots.txt 產生器&lt;/a&gt;，可協助您建立這個檔案。請注意，如果您的網站使用了子網域，且您不希望搜尋引擎檢索特定子網域中的某些網頁，則您必須為該子網域建立一個單獨的 robots.txt 檔案。如需更多有關 robots.txt 的資訊，我們建議您參閱有關使用 &lt;a href=&#34;https://support.google.com/webmasters/answer/6062608?hl=zh-Hant&amp;amp;rd=1&#34;&gt;robots.txt 檔案&lt;/a&gt;的「網站管理員說明中心」指南。&lt;/p&gt;
+&lt;p&gt;另有幾種方法可以避免您的內容出現在搜尋結果中，例如為您的 robots 中繼標記新增「&lt;code&gt;NOINDEX&lt;/code&gt;」、使用 &lt;code&gt;.htaccess&lt;/code&gt; 對目錄進行密碼保護，以及使用「Google網站管理員工具」移除已檢索的內容。Google工程師 MattCutts 在一部實用影片中詳細解說了&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/01/remove-your-content-from-google.html&#34;&gt;每種網址封鎖方法的注意事項&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;漫遊器排除標準&#34;&gt;漫遊器排除標準&lt;/h4&gt;
+&lt;p&gt;避免讓網路自動尋檢程式 / 檢索器 (例如 Googlebot) 存取網站全部內容或部分內容的慣例，允許的話則會讓內容公開曝光。&lt;/p&gt;
+&lt;h4 id=&#34;proxy服務&#34;&gt;Proxy服務&lt;/h4&gt;
+&lt;p&gt;內部網路和外部網路都在連線中的行況下，取代連線功能的電腦或軟體。&lt;/p&gt;
+&lt;h2 id=&#34;robottxt做法&#34;&gt;robot.txt做法&lt;/h2&gt;
+&lt;h3 id=&#34;對敏感的內容使用更為安全的方法&#34;&gt;對敏感的內容使用更為安全的方法&lt;/h3&gt;
+&lt;p&gt;您或許對使用 robots.txt 來封鎖敏感或機密資料感覺不是特別放心。其中一個原因是，如果網際網路上碰巧存在連至您封鎖網址的連結 (例如參照記錄)，則搜尋引擎仍然可以參照該網址 (只是顯示網址，而不顯示標題或摘要)。&lt;/p&gt;
+&lt;p&gt;此外，一些不符合條件的搜尋引擎或惡意搜尋引擎並不遵守「漫遊器排除標準」，可能會違背您的 robots.txt 指示。最後，好奇的使用者可能會查看您 robots.txt 檔案中的目錄或子目錄，並猜中您不想曝光的內容網址。對內容加密或使用 .htaccess 對內容進行密碼保護是更安全的選擇。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索類似搜尋結果的網頁(使用者不喜歡從一個搜尋結果網頁進入另一個搜尋結果網頁，這對他們而言沒有多大價值)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索大量自動產生的且內容相同或稍有不同的網頁:「難道這100,000個近乎相同的網頁真的應該在搜尋引擎的索引中出現嗎？」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索因Proxy服務而建立的網址&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/03/speaking-language-of-robots.html&#34;&gt;robots.txt 產生器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/6062608?hl=zh-Hant&amp;amp;rd=1&#34;&gt;robots.txt 檔案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/01/remove-your-content-from-google.html&#34;&gt;每種網址封鎖方法的注意事項&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 行動網站</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/mobile-website/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/mobile-website/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 網站管理員工具</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/webmasters/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/webmasters/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     

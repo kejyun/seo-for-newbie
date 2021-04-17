@@ -1,0 +1,66 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – 爬蟲</title>
+    <link>https://seo-for-newbie.kejyun.com/categories/%E7%88%AC%E8%9F%B2/</link>
+    <description>Recent content in 爬蟲 on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/categories/%E7%88%AC%E8%9F%B2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: robots.txt</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/robots-txt/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/robots-txt/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;robottxt-說明&#34;&gt;robot.txt 說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用robotstxt限制搜尋引擎對無需檢索的部分進行檢索&#34;&gt;使用robots.txt限制搜尋引擎對無需檢索的部分進行檢索&lt;/h3&gt;
+&lt;p&gt;「robots.txt」檔案可告知搜尋引擎是否可以存取您網站的某些部分，進而對這些部分進行檢索 (1)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/robots-txt/guide-robots-txt-1.png&#34; alt=&#34;robots.txt 資料內容&#34;&gt;&lt;/p&gt;
+&lt;p&gt;這個檔案必須命名為「robots.txt」，並放置在您網站的根目錄中(2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/robots-txt/guide-robots-txt-2.png&#34; alt=&#34;robots.txt 檔案位置&#34;&gt;&lt;/p&gt;
+&lt;p&gt;您可能不希望搜尋引擎檢索網站中的某些網頁，因為這些出現在搜尋結果中的網頁，對使用者而言並無益處。如果您確實想阻止搜尋引擎檢索您的網頁，「Google網站管理員工具」中有一個很好用的 &lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/03/speaking-language-of-robots.html&#34;&gt;robots.txt 產生器&lt;/a&gt;，可協助您建立這個檔案。請注意，如果您的網站使用了子網域，且您不希望搜尋引擎檢索特定子網域中的某些網頁，則您必須為該子網域建立一個單獨的 robots.txt 檔案。如需更多有關 robots.txt 的資訊，我們建議您參閱有關使用 &lt;a href=&#34;https://support.google.com/webmasters/answer/6062608?hl=zh-Hant&amp;amp;rd=1&#34;&gt;robots.txt 檔案&lt;/a&gt;的「網站管理員說明中心」指南。&lt;/p&gt;
+&lt;p&gt;另有幾種方法可以避免您的內容出現在搜尋結果中，例如為您的 robots 中繼標記新增「&lt;code&gt;NOINDEX&lt;/code&gt;」、使用 &lt;code&gt;.htaccess&lt;/code&gt; 對目錄進行密碼保護，以及使用「Google網站管理員工具」移除已檢索的內容。Google工程師 MattCutts 在一部實用影片中詳細解說了&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/01/remove-your-content-from-google.html&#34;&gt;每種網址封鎖方法的注意事項&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;漫遊器排除標準&#34;&gt;漫遊器排除標準&lt;/h4&gt;
+&lt;p&gt;避免讓網路自動尋檢程式 / 檢索器 (例如 Googlebot) 存取網站全部內容或部分內容的慣例，允許的話則會讓內容公開曝光。&lt;/p&gt;
+&lt;h4 id=&#34;proxy服務&#34;&gt;Proxy服務&lt;/h4&gt;
+&lt;p&gt;內部網路和外部網路都在連線中的行況下，取代連線功能的電腦或軟體。&lt;/p&gt;
+&lt;h2 id=&#34;robottxt做法&#34;&gt;robot.txt做法&lt;/h2&gt;
+&lt;h3 id=&#34;對敏感的內容使用更為安全的方法&#34;&gt;對敏感的內容使用更為安全的方法&lt;/h3&gt;
+&lt;p&gt;您或許對使用 robots.txt 來封鎖敏感或機密資料感覺不是特別放心。其中一個原因是，如果網際網路上碰巧存在連至您封鎖網址的連結 (例如參照記錄)，則搜尋引擎仍然可以參照該網址 (只是顯示網址，而不顯示標題或摘要)。&lt;/p&gt;
+&lt;p&gt;此外，一些不符合條件的搜尋引擎或惡意搜尋引擎並不遵守「漫遊器排除標準」，可能會違背您的 robots.txt 指示。最後，好奇的使用者可能會查看您 robots.txt 檔案中的目錄或子目錄，並猜中您不想曝光的內容網址。對內容加密或使用 .htaccess 對內容進行密碼保護是更安全的選擇。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索類似搜尋結果的網頁(使用者不喜歡從一個搜尋結果網頁進入另一個搜尋結果網頁，這對他們而言沒有多大價值)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索大量自動產生的且內容相同或稍有不同的網頁:「難道這100,000個近乎相同的網頁真的應該在搜尋引擎的索引中出現嗎？」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允許檢索因Proxy服務而建立的網址&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/03/speaking-language-of-robots.html&#34;&gt;robots.txt 產生器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/6062608?hl=zh-Hant&amp;amp;rd=1&#34;&gt;robots.txt 檔案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/01/remove-your-content-from-google.html&#34;&gt;每種網址封鎖方法的注意事項&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
