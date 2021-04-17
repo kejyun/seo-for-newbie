@@ -1,0 +1,525 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – 指南</title>
+    <link>https://seo-for-newbie.kejyun.com/tags/%E6%8C%87%E5%8D%97/</link>
+    <description>Recent content in 指南 on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/tags/%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 標題</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/web-title/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/web-title/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;網頁標題說明&#34;&gt;網頁標題說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用標題標記來標明網頁標題&#34;&gt;使用標題標記來標明網頁標題&lt;/h3&gt;
+&lt;p&gt;標題標記可讓使用者和搜尋引擎瞭解某個特定網頁的主題。&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt; 標記應該放在HTML文件的&lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;標記區段中(1)。理想情況下, 您應該為網站的每一個網頁建立獨特的網頁標題。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-title/guide-web-title-1.png&#34; alt=&#34;棒球卡首頁標題&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;網頁標題內容顯示於搜尋結果中&#34;&gt;網頁標題內容顯示於搜尋結果中&lt;/h3&gt;
+&lt;p&gt;如果您的文件出現在搜尋結果網頁中,標題標記的內容通常會出 現在搜尋結果的第一行(如果您不熟悉Google搜尋結果的各個組成 部分,請觀看由Google工程師Matt Cutts主講的&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/11/anatomy-of-search-result.html&#34;&gt;搜尋結果剖析影片&lt;/a&gt; ,以及這張實用的&lt;a href=&#34;https://support.google.com/websearch/answer/35891&#34;&gt;Google搜尋結果網頁示意圖&lt;/a&gt;)。如果標題中的文 字出現在使用者的搜尋查詢中,它們會以粗體顯示。這樣有助於 使用者確定這個網頁是否可能和他們的搜尋有關(2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-title/guide-web-title-2.png&#34; alt=&#34;使用者搜尋結果1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;您首頁的標題可以列出網站/公司名稱,並包括其他一些重要資訊, 例如您公司的實際地址,或是一些主要內容領域或提供的服務(3)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-title/guide-web-title-3.png&#34; alt=&#34;使用者搜尋結果2&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;搜尋引擎&#34;&gt;搜尋引擎&lt;/h4&gt;
+&lt;p&gt;利用關鍵字或其他特定字詞,在網際網路上搜尋可用資料的一種電腦功能,或提 供這類功能的程式&lt;/p&gt;
+&lt;h4 id=&#34;head標記&#34;&gt;&lt;head&gt;標記&lt;/h4&gt;
+&lt;p&gt;在HTML文件中標明標題的元素。該元素的內容將不會顯示於瀏覽器。&lt;/p&gt;
+&lt;h4 id=&#34;html&#34;&gt;HTML&lt;/h4&gt;
+&lt;p&gt;超文本標記語言的縮寫,是說明網頁文件的語言。它是網頁的基本元素,包含文 件內容以及任何內嵌的超連結和圖片。&lt;/p&gt;
+&lt;h4 id=&#34;搜尋查詢&#34;&gt;搜尋查詢&lt;/h4&gt;
+&lt;p&gt;使用者在搜尋引擎查詢字詞時,輸入的單一或多個語詞。&lt;/p&gt;
+&lt;h2 id=&#34;網頁標題-seo-做法&#34;&gt;網頁標題 SEO 做法&lt;/h2&gt;
+&lt;h3 id=&#34;準確描述網頁內容&#34;&gt;準確描述網頁內容&lt;/h3&gt;
+&lt;p&gt;選擇可以有效傳達網頁內容主題的標題&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選擇與網頁內容無關的標題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用像「未命名」或「新網頁1」這樣的預設標題或不明確的標題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;為每個網頁建立獨一無二的標題標記&#34;&gt;為每個網頁建立獨一無二的標題標記&lt;/h3&gt;
+&lt;p&gt;每一個網頁最好有一個獨一無二的標題標記,以幫助Google將它和您網站上的其他網頁區別開來。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;對您網站的所有網頁或大部分網頁使用同一個標題標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;使用簡短但描述明確的標題&#34;&gt;使用簡短但描述明確的標題&lt;/h3&gt;
+&lt;p&gt;簡短的標題同樣可以包含豐富的資訊。如果標題太長,Google只會在搜尋結果中顯示其部分內容。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用既冗長又對使用者沒太大用處的標題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在標題標記中堆砌不必要的關鍵字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/11/anatomy-of-search-result.html&#34;&gt;搜尋結果剖析影片&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/websearch/answer/35891&#34;&gt;Google搜尋結果網頁示意圖&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 指南</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/</link>
+      <pubDate>Thu, 08 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Meta 描述</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/meta-description/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/meta-description/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;meta-描述-description-說明&#34;&gt;Meta 描述 (description) 說明&lt;/h2&gt;
+&lt;h3 id=&#34;為每個網頁定義摘要&#34;&gt;為每個網頁定義摘要&lt;/h3&gt;
+&lt;p&gt;網頁的描述中繼標記為 Google 和其他搜尋引擎提供了關於這個網頁的摘要 (1)。網頁標題可以由一些文字或字組構成，而網頁描述中繼標記則可以由一兩個句子或一個簡短段落組成。「Google網 站管理員工具」提供了好用的內容分析工具，可以指出太短、太長或過分重複的描述中繼標記使用簡短但描述明確的標題(此工具 也會指出&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt;標記中同樣的資訊)。與&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt;標記一樣，描述中 繼標記也位於您HTML文件的&lt;head&gt;標記部分中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/meta-description/guide-meta-description-1.png&#34; alt=&#34;Meta Description&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;描述中繼標記的優點有哪些&#34;&gt;描述中繼標記的優點有哪些?&lt;/h3&gt;
+&lt;p&gt;描述中繼標記是非常重要的，因為 Google 可能會用其內容來產生 您網頁的摘要。我們之所以說「可能」，是因為如果您網頁中有一段相關醒目文字非常符合使用者的查詢，Google 可能會選擇使 用這段文字。除此之外，如果您的網站收錄於&lt;a href=&#34;http://www.dmoz.org/&#34;&gt;開放式目錄專案 (Open Directory Project)&lt;/a&gt;中的話，Google 也可能會使用您網站在其 中的描述(瞭解&lt;a href=&#34;https://support.google.com/webmasters/answer/35624?rd=1&#34;&gt;如何防止搜尋引擎顯示ODP資料&lt;/a&gt;)。為每一個網頁都加入描述中繼標記的話，是一項非常好的做法，這樣即使Google 在網頁上找不到可用作摘要的文字，也可以使用描述中繼標記來生成摘要內容。在網站管理員中心網誌，有一篇關於使用更好的描述中繼標記來&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/09/improve-snippets-with-meta-description.html&#34;&gt;改善網頁摘要的實用文章&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/meta-description/guide-meta-description-2.png&#34; alt=&#34;Meta Description 使用者搜尋結果1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;如果摘要中的文字出現在使用者的查詢中，它們會以粗體顯示 (2)。 這可以幫助使用者判斷此網頁的內容是否符合他（她）想要找的內容 (3)。以下是另一個例子，Google 利用包含一篇文章的深層網頁的 描述中繼標記（此網頁具有非常理想的獨一無二的描述中繼標記產 生了網頁摘要內容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/meta-description/guide-meta-description-3.png&#34; alt=&#34;Meta Description 使用者搜尋結果2&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;在搜尋引擎的搜尋結果頁面上，顯示於相對應網頁標題底下的文字內容。會顯示網頁摘要和/或符合搜尋關鍵字的網頁部分。&lt;/p&gt;
+&lt;h4 id=&#34;網域&#34;&gt;網域&lt;/h4&gt;
+&lt;p&gt;標明電腦或網路所在位置的網際網路位址，這些位址均受到控管，以免重複。&lt;/p&gt;
+&lt;h4 id=&#34;開放式目錄專案-odp&#34;&gt;開放式目錄專案 (ODP)&lt;/h4&gt;
+&lt;p&gt;全球最大非營利性網站目錄（大規模收集網路連結後，分門別類製作成列表清單）。&lt;/p&gt;
+&lt;h2 id=&#34;meta-描述-description-做法&#34;&gt;Meta 描述 (description) 做法&lt;/h2&gt;
+&lt;h3 id=&#34;準確概括網頁的內容&#34;&gt;準確概括網頁的內容&lt;/h3&gt;
+&lt;p&gt;請撰寫一段可以提供資訊並且吸引使用者的描述，這樣的話，如果使用者在搜尋結果中看到您的 描述中繼標記(作為摘要出現)時，即可吸引使用者的瀏覽興趣。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;撰寫的描述中繼標記與網頁的內容無關&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用籠統的描述，如「這是一個網頁」或「關於棒球卡的網頁」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在描述中只堆砌了一堆關鍵字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;複製文件的所有內容並將其貼至描述中繼標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;為每一個網頁使用獨一無二的描述&#34;&gt;為每一個網頁使用獨一無二的描述&lt;/h3&gt;
+&lt;p&gt;為每一個網頁使用不同描述中繼標記的話，將對使用者和搜尋引擎都有幫助，特別是搜尋結果中 包含多個來自您網域的網頁時(例如，&lt;a href=&#34;http://www.brianwhite.org/2007/04/27/google-site-operator-an-ode-to-thee/&#34;&gt;使用site: 運算子&lt;/a&gt;進行搜尋時)。如果您的網站含有成千上萬 的網頁，精心雕琢描述中繼標記似乎不太可行。在這種情況下，您可以根據每一頁的具體內容， 自動產生描述中繼標記。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;對您網站的所有網頁或大部分網頁使用同一個中繼描述標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;控制文字數量&#34;&gt;控制文字數量&lt;/h3&gt;
+&lt;p&gt;雖然搜尋引擎沒有說明字數限制，但明顯過多的文字描述，會被搜尋引擎判斷成有作弊嫌疑的描述文字，建議文字數量以不超過 &lt;code&gt;160&lt;/code&gt; 個英文字符，也就是 &lt;code&gt;80&lt;/code&gt; 個中文字以內。&lt;/p&gt;
+&lt;h3 id=&#34;於meta內重覆關鍵字&#34;&gt;於meta內重覆關鍵字&lt;/h3&gt;
+&lt;p&gt;描述內需包含 1-2 次的關鍵字，這也就是為什麼一個網頁不適合超過3組關鍵詞的原因，因為過多的關鍵詞包含進描述標籤內，則會大大提高作弊的嫌疑，我們可以從搜尋結果看到，前十名幾乎沒有在描述內堆疊關鍵字的網站，主因就是早期在描述標籤內堆疊關鍵字的網站都已經被搜尋引擎清除了。&lt;/p&gt;
+&lt;h3 id=&#34;撰寫吸引人的文案&#34;&gt;撰寫吸引人的文案&lt;/h3&gt;
+&lt;p&gt;因為描述標籤內的文案等同於搜尋結果上所顯示出來代表該網站的描述，因此應該以吸引人的文案優先，吸引瀏覽者點擊才是上策，而不是為了塞入關鍵字，而造成文案變成無法閱讀的狀況。&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.brianwhite.org/2007/04/27/google-site-operator-an-ode-to-thee/&#34;&gt;使用site: 運算子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wide.com.tw/seo-teaching/1024&#34;&gt;SEO教學第11課： 影響網站排名的因素：Meta標籤對SEO優化的作用？ | 免費教學課程：seo關鍵字排名優化，淘寶網路行銷，網站架設網頁設計-台灣映鴻設計網&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dmoz.org/&#34;&gt;開放式目錄專案 (Open Directory Project)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/09/improve-snippets-with-meta-description.html&#34;&gt;改善網頁摘要的實用文章&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 網址結構</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/url-structure/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/url-structure/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;網站架構說明&#34;&gt;網站架構說明&lt;/h2&gt;
+&lt;h3 id=&#34;簡單易懂的-url-能夠更加容易的表達內容訊息&#34;&gt;簡單易懂的 URL 能夠更加容易的表達內容訊息&lt;/h3&gt;
+&lt;p&gt;為網站上的文件建立描述明確的類別和檔案名稱，不僅有助於使網站更井然有序，還有助於搜尋引擎更有效的檢索您的文件。此外，對於那些想連結到您內容的使用者，這樣可以建立更簡單、「友善」的網址。訪客可能會被過於冗長、隱晦不明，包含很少可識別文字的網址嚇到。
+類似 (1) 這樣的網址會讓使用者感到困惑，並產生不友善的感覺。使用者在記憶這樣的網址或為其建立連結的時候，會感到困難。而且，使用者可能會認為某一部分的網址是不需要的，特別是當這個網址顯示了很多難以識別的參數。使用者可能會去掉網址的一部分，導致連結失效。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-structure/guide-web-structure-1.png&#34; alt=&#34;讓使用者及搜尋引擎感到困惑的網址&#34;&gt;&lt;/p&gt;
+&lt;p&gt;某些使用者可能將該網頁的網址作為錨定文字，以連結到您的網 頁。如果您的網址包含了相關的文字，與提供一個ID或奇怪命名 的參數相比，可以為使用者和搜尋引擎提供更多的資訊(2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-structure/guide-web-structure-1.png&#34; alt=&#34;讓使用者及搜尋引擎容易辨別的網址&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;網址顯示於搜尋結果中&#34;&gt;網址顯示於搜尋結果中&lt;/h3&gt;
+&lt;p&gt;最後，請記得文件的網址會作為 Google 搜尋結果的一部分，顯示在文件的標題和摘要的下方。與標題和摘要一樣，如果網址中的文字出現在使用者的查詢中，該文字會在搜尋結果的網址中以粗體顯示 (3)。右側是另外一個例子，顯示了網域某個網頁的網址， 該網頁包含關於稀有棒球卡的一篇文章。比起諸如「&lt;code&gt;www.brandonsbaseballcards.com/article/102125/&lt;/code&gt;」中的 ID 號碼，網址中的文字往往更能吸引搜尋使用者。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-structure/guide-web-structure-1.png&#34; alt=&#34;網址顯示於搜尋結果中&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Google 擅長檢索各種類型的網址結構，即使是非常複雜的網址，也能迎刃而解。但是花一些時間讓您的網址越簡單越好，對於使用者和搜尋引擎都非常有助益。有些網站管理員透過將其&lt;a href=&#34;https://support.google.com/webmasters/answer/40349&#34;&gt;動態網址重寫&lt;/a&gt;為靜態網址來實現這一目的。Google 覺得這樣做並無不妥，但是我們需要提醒一下，這是一項進階程序，如果操作不當，可能會為您網站的檢索帶來麻煩。如要瞭解更多有關良好網址結構的詳情，建議您參閱「網站管理員說明中心」網頁上，關於&lt;a href=&#34;https://support.google.com/webmasters/answer/76329&#34;&gt;建立 Google 友善網址的這篇文章&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;檢索&#34;&gt;檢索&lt;/h4&gt;
+&lt;p&gt;利用搜尋引擎軟體(漫遊器)來探索網站以建立內容索引。&lt;/p&gt;
+&lt;h4 id=&#34;參數&#34;&gt;參數&lt;/h4&gt;
+&lt;p&gt;加在網址當中,用於指定網站行為的資料。&lt;/p&gt;
+&lt;h4 id=&#34;id-工作階段id&#34;&gt;ID (工作階段ID)&lt;/h4&gt;
+&lt;p&gt;對於正在存取系統或網路通訊的使用者進行識別和/或行為管理時所用的資料。&lt;/p&gt;
+&lt;h4 id=&#34;301重新導向&#34;&gt;￼￼￼￼￼301重新導向&lt;/h4&gt;
+&lt;p&gt;HTTP狀態碼(詳見第一頁)。強制網站訪客自動跳到一個指定網址。&lt;/p&gt;
+&lt;h4 id=&#34;子網域&#34;&gt;子網域&lt;/h4&gt;
+&lt;p&gt;指定類別的網域種類,比一般網域小。&lt;/p&gt;
+&lt;h4 id=&#34;根目錄&#34;&gt;根目錄&lt;/h4&gt;
+&lt;p&gt;位於網站樹狀結構頂端的目錄,有時亦稱作「根」。&lt;/p&gt;
+&lt;h2 id=&#34;網站架構做法&#34;&gt;網站架構做法&lt;/h2&gt;
+&lt;h3 id=&#34;在網址中使用文字&#34;&gt;在網址中使用文字&lt;/h3&gt;
+&lt;p&gt;如果網址包含與您網站內容和架構相關的文字，將更能便於訪客瀏覽您的網站。訪客會更容易記住這些網址，並可能更願意連結到這些網址。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用過長並包含不必要參數和工作階段ID的網址&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選擇籠統的名稱，例如「page1.html」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用過度堆砌的關鍵字，例如「baseball-cards-baseball-cards-baseball-cards.htm」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;建立簡單的目錄架構&#34;&gt;建立簡單的目錄架構&lt;/h3&gt;
+&lt;p&gt;使用可以妥善整理內容的目錄架構，並使訪客可以輕鬆得知處於您網站的哪個位置。嘗試使用目錄架構來說明網址上的內容類型。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用類似“&amp;hellip;/dir1/dir2/dir3/dir4/dir5/dir6/page.html”的深層巢狀子目錄&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用與內容無關的目錄&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;為同一文件提供同一版本的網址&#34;&gt;為同一文件提供同一版本的網址&lt;/h3&gt;
+&lt;p&gt;為避免一些使用者連結到某個版本的網址、而其他使用者連結到另一個版本(網址的不同可能會降 低該內容的吸引力)，建議您在網頁架構和內部連結中，集中使用一個網址。如果您確實發現有使用者透過不同的網址來瀏覽同樣的內容，您可以設定 &lt;code&gt;301 重新導向&lt;/code&gt;，將不喜歡的網址重新導向到 您所期望使用的網址，這是一個很好的解決方案。無法重新導向時，您也可以使用標準網頁或 &lt;code&gt;rel=&amp;quot;canonical&amp;quot;&lt;/code&gt; 連結元素。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;無論從子域還是根目錄(例如「&lt;code&gt;domain.com/page.htm&lt;/code&gt;」和「&lt;code&gt;sub.domain.com/page.htm&lt;/code&gt;」)都可以瀏覽到相同的內容&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在網址中使用奇怪的大寫字母(大部分使用者喜歡小寫的網址，並且小寫也便於使用者記憶)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/40349&#34;&gt;動態網址重寫&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/76329&#34;&gt;建立 Google 友善網址的這篇文章&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 網站導覽</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/navigation/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/navigation/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;網站導覽說明&#34;&gt;網站導覽說明&lt;/h2&gt;
+&lt;h3 id=&#34;網站的導覽功能非常重要&#34;&gt;網站的導覽功能非常重要&lt;/h3&gt;
+&lt;p&gt;在幫助訪客快速找到其所需內容方面，網站的導覽功能非常重要。此外，對於幫助搜尋引擎瞭解網站管理員認為哪些是重要內容，此功能也同樣重要。雖然 Google 提供的皆是網頁層級的搜尋結果，但 Google 希望也能進一步理解這個網站在整個網站架構中的地位。&lt;/p&gt;
+&lt;h3 id=&#34;以首頁為規劃導覽功能的基準&#34;&gt;以首頁為規劃導覽功能的基準&lt;/h3&gt;
+&lt;p&gt;所有網站都有其首頁或「根」網頁，這種網頁往往是訪客瀏覽最多的，也是訪客瀏覽該網站的起點。除非您的網站只有屈指可數的幾個網頁，否則您應該思考一下如何將訪客從概括性網頁 (根網頁) 導向至包含特定內容的網頁。您是否有大量關於特定主題領域的網頁，因而需要另建網頁來歸納這些相關網頁 (例如:根網頁-&amp;gt;列出相關主題-&amp;gt;特定主題)？您是否有上百件的商品，需要分類並放置在多個類別和子類別的網頁中?&lt;/p&gt;
+&lt;h3 id=&#34;使用階層連結清單導覽來確認使用者的便利性&#34;&gt;使用「階層連結清單」導覽來確認使用者的便利性&lt;/h3&gt;
+&lt;p&gt;階層連結導覽是指在網頁頂端或底部放置一排內部連結，讓訪客可以快速回到上一個網頁或根網頁 (1)。大多數的階層連結導覽通常會將最具概括性的網頁 (通常是根網頁) 放在最左邊的第一位，越靠近右邊，列出的網頁所包含的內容就越具體。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/navigation/guide-navigation-1.png&#34; alt=&#34;網站導覽&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;404找不到網頁錯誤&#34;&gt;404(「找不到網頁」錯誤)&lt;/h4&gt;
+&lt;p&gt;HTTP狀態碼，這代表伺服器找不到瀏覽器要求的網頁。&lt;/p&gt;
+&lt;h4 id=&#34;xml-sitemap&#34;&gt;XML Sitemap&lt;/h4&gt;
+&lt;p&gt;特定網站的網頁清單。透過建立、傳送這份清單，您便可以向Google通知網站的 所有網頁，包含Google在一般檢索程序時，可能偵測不到的任何網址。&lt;/p&gt;
+&lt;h4 id=&#34;flash&#34;&gt;Flash&lt;/h4&gt;
+&lt;p&gt;Adobe Systems Incorporated 所開發的網路技術或軟體，可建立整合音效、影片及動畫的網路內容。&lt;/p&gt;
+&lt;h4 id=&#34;javascript&#34;&gt;JavaScript&lt;/h4&gt;
+&lt;p&gt;一種程式設計語言，可在網頁中加入動態功能，是許多網路服務普遍使用的語言。&lt;/p&gt;
+&lt;h4 id=&#34;下拉式選單&#34;&gt;下拉式選單&lt;/h4&gt;
+&lt;p&gt;一種讓使用者從選單中選擇內容的系統，按一下選單時，選擇清單就會以下拉清單的方式顯示。&lt;/p&gt;
+&lt;h4 id=&#34;可用性&#34;&gt;可用性&lt;/h4&gt;
+&lt;p&gt;內容索引。&lt;/p&gt;
+&lt;h4 id=&#34;使用者體驗&#34;&gt;使用者體驗&lt;/h4&gt;
+&lt;p&gt;使用者透過使用產品、服務等所獲得的體驗。重點在於提供使用者真正想要的體驗，例如「喜悅」、「便利」及「舒適」。&lt;/p&gt;
+&lt;h4 id=&#34;http狀態碼&#34;&gt;HTTP狀態碼&lt;/h4&gt;
+&lt;p&gt;電腦之間相互傳輸資訊時，用於表示伺服器回應方式的代碼。代碼由系統指派的三個數字組成，每個數字分別根據其用途而有不同的意義。&lt;/p&gt;
+&lt;h2 id=&#34;網站導覽做法&#34;&gt;網站導覽做法&lt;/h2&gt;
+&lt;h3 id=&#34;預先考慮使用者移除您的部分網址會出現的情況&#34;&gt;預先考慮使用者移除您的部分網址會出現的情況&lt;/h3&gt;
+&lt;p&gt;￼預先考慮使用者移除您的部分網址會出現的情況-您應該預先考慮到，有些使用者可能會以很奇怪的方式瀏覽您的網站。例如使用者可能並不使用網頁上的麵包屑導覽連結，而是去掉一部分網址，以找到更概括性的內容。他們可能正在瀏覽&lt;code&gt;http://www.brandonsbaseballcards.com/news/2010/upcoming-baseball-card-shows.htm&lt;/code&gt;，然後卻在瀏覽器的地址列輸入&lt;code&gt;http://www.brandonsbaseballcards.com/news/2010/&lt;/code&gt;，認為這樣就可以顯示2010年的所有新聞 (2)。在這種情況下，您的網站是否已準備好顯示使用者想要的內容，還是只顯示一個 404 (「找不到網頁」錯誤)？再者，如果使用者移動至再上一層目錄&lt;code&gt;http://www.brandonsbaseballcards.com/news/&lt;/code&gt;的時候，我們又該怎麼做呢？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/navigation/guide-navigation-2.png&#34; alt=&#34;使用者移除您的部分網址&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;準備兩種-sitemap分別供使用者和搜尋引擎使用&#34;&gt;準備兩種 Sitemap：分別供使用者和搜尋引擎使用&lt;/h3&gt;
+&lt;p&gt;Sitemap (網站架構) 是您網站上的一個簡單網頁，用於顯示網站架構，通常由一份網站網頁的層級清單組成。當訪客在您的網站上找不到某些特定網頁時，即可瀏覽該網頁。雖然搜尋引擎也會瀏覽該網頁，以便對您網站上的網頁進行更全面的檢索，但其主要目的還是為了方便訪客。
+您也可以使用 Google 的「網站管理員工具」提交 XMLSitemap，讓 Google 更容易發現您網站上的網頁。使用 Sitemap 檔案還有一個好處，就是您可以使用它來告知 Google 哪個版本的網址是您偏好的標準網址(例如:&lt;code&gt;http://brandonsbaseballcards.com/&lt;/code&gt;或&lt;code&gt;http://www.brandonsbaseballcards.com/&lt;/code&gt;;請瀏覽更多關於什麼是偏好網域的詳情)。Google 協助建立了開放原始碼的 Sitemap 產生器指令，以幫助您為自己的網站建立 Sitemap 檔案。如要進一步瞭解 Sitemap，請前往「網站管理員說明中心」，瀏覽實用的 Sitemap 檔案指南。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/navigation/guide-navigation-3.png&#34; alt=&#34;Sitemap&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;建立自然流暢的層級架構&#34;&gt;建立自然流暢的層級架構&lt;/h3&gt;
+&lt;p&gt;請儘量建立簡單的架構，讓使用者能從您網站上的主要內容前往他們想要的特定內容。如有必要，可以加入網頁導覽，並將這些網頁有效整合至內部連結架構。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;建立複雜的導覽連結網。例如，將網站上所有網頁都連結至其他所有網頁過度細分內容 (使用者必須按20次才能找到位於深層結構下的內容)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;導覽中儘量使用文字連結&#34;&gt;導覽中儘量使用文字連結&lt;/h3&gt;
+&lt;p&gt;如果網站網頁大部分都是文字連結，搜尋引擎可以更容易檢索並瞭解您的網站。相較於其他方式，許多使用者更喜歡文字連結，特別是使用的某些裝置無法處理 Flash 或 JavaScript 時。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;完全依靠下拉式選單、圖片或動畫來建立導覽雖然大多數搜尋引擎能夠發現網站的這類連結，但如果能讓使用者透過正常文字連結至網站上的所有網頁，將提高網站的可用性，請瀏覽更多關於 Google 如何處理非文字檔案的詳情&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;在您的網站上放置-html-sitemap並使用-xml-sitemap-檔案&#34;&gt;在您的網站上放置 HTML Sitemap，並使用 XML Sitemap 檔案&lt;/h3&gt;
+&lt;p&gt;使用一個簡單的 Sitemap，收錄您網站上所有網頁或最重要網頁 (如果您有成百上千個網頁)，是非常實用的作法。為您的網站建立 XML Sitemap 檔案，將確保搜尋引擎能夠找到您網站上的網頁。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;HTMLSitemap中含有無效連結，無法到達相應的網頁&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;建立的 HTML Sitemap 僅列出網頁，而沒有進行整理&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;建立實用的-404-網頁&#34;&gt;建立實用的 404 網頁&lt;/h3&gt;
+&lt;p&gt;使用者有時會因開啟無效連結或輸入錯誤的網址，而連至您網站中並不存在的網頁。使用自訂 404 網頁能夠確實幫助使用者返回您網站上的有效網頁，大幅改善使用者體驗。您的 404 網頁最好能提供返回您網站根網頁的連結，以及前往網站中熱門或相關內容的連結。Google為您提供了 404 小工具，您可以將其嵌入您的 404 網頁，即可自動產生許多實用的功能。您也可以使用「Google網站管理員工具」，找出導致「找不到網頁」錯誤的網址來源。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;讓搜尋引擎建立404網頁的索引 (請務必將網站伺服器設定為當使用者要求的網頁不存在時，能傳回 404 HTTP 狀態碼)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;只提供「找不到網頁」、「404」等模糊的訊息，或者甚至連 404 網頁都沒有&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;404 網頁的設計與您網站的其他網頁不一致&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/webmasters/tools/home?hl=zh-TW&#34;&gt;網站管理員工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bing.com/toolbox/webmaster&#34;&gt;Bing - 網站管理員工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/googlesitemapgenerator/&#34;&gt;Sitemap產生器指令碼&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/44231?hl=zh-Hant&#34;&gt;什麼是偏好網域&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/156184&#34;&gt;Sitemap檔案指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/72746&#34;&gt;Google如何處理非文字檔案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html&#34;&gt;404 HTTP狀態碼&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/93641&#34;&gt;自訂404網頁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/08/make-your-404-pages-more-useful.html&#34;&gt;404小工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2008/10/webmaster-tools-shows-crawl-error.html&#34;&gt;導致「找不到網頁」錯誤的網址來源&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sofree.cc/bing-webmaster/&#34;&gt;[教學]利用Bing網站管理員工具提交Sitemap (Yahoo也適用) – 香腸炒魷魚&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;附註：目前 Yahoo 與 Bing 都使用 Bing 網站管理工具登錄 sitemap 即可&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;中國搜尋引擎 sitemap 登入&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://zhanzhang.baidu.com/sitesubmit/index&#34;&gt;百度&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://info.so.360.cn/site_submit.html&#34;&gt;360 搜索&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sogou.com/feedback/urlfeedback.php&#34;&gt;搜狗&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 網站內容</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/website-content/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/website-content/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;網站內容說明&#34;&gt;網站內容說明&lt;/h2&gt;
+&lt;h3 id=&#34;內容引人注目的網站自然會受到肯定&#34;&gt;內容引人注目的網站自然會受到肯定&lt;/h3&gt;
+&lt;p&gt;與本文中討論的各種其他因素相較，建立引人注目且實用的內容可能是提升網站人氣最重要的因素 (1)。如果您的內容夠好，使用者瞭然於胸，並且樂意透過網誌文章、社交媒體服務、電子郵件、論壇或其他方式，向其他使用者推薦您的網站。對於使用者和 Google 而言，這種口碑相傳的效應會提高您的網站聲譽，如果沒有優質的內容做後盾，則難以創造這種效果。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/website-content/guide-website-content-1.png&#34; alt=&#34;網站內容&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;事先考慮使用者對主題瞭解程度的差異進而提供獨一無二的內容&#34;&gt;事先考慮使用者對主題瞭解程度的差異，進而提供獨一無二的內容&lt;/h3&gt;
+&lt;p&gt;考量使用者為找到您的部分內容而可能搜尋的字詞。相較於對主題不瞭解的使用者，很瞭解該主題的使用者可能會在他們的搜尋查詢中使用不同的關鍵字。例如，一個資深棒球愛好者可能會搜尋&lt;code&gt;國家聯盟冠軍系列賽 (National League Championship Series)&lt;/code&gt;的縮寫 &lt;code&gt;nlcs&lt;/code&gt;，而一個剛剛接觸棒球的愛好者可能會使用 &lt;code&gt;棒球季後賽&lt;/code&gt; 這樣較為普通的查詢。事先考慮這些搜尋行為的差異，並在撰寫您的內容時將這些差異納入考量 (妥善搭配關鍵字詞組)，就可以產生正面的結果。Google AdWords 提供了一個便利的「&lt;a href=&#34;https://adwords.google.com.tw/KeywordPlanner&#34;&gt;關鍵字工具&lt;/a&gt;」，可協助您找出新的關鍵字變化，並查看每一個關鍵字的約略搜尋量 (2)。此外，「Google 網站管理員工具」會提供您網站上出現的熱門搜尋查詢，以及為您的網站帶來最多使用者的熱門搜尋查詢。
+考慮建立其他網站沒有提供的全新實用服務。您還可以撰寫一篇原創研究報告、剖析引人入勝的新聞報導或善用您獨有的使用者基礎。其他網站可能缺乏能夠做到這些事情的資源或專業知識。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/website-content/guide-website-content-1.png&#34; alt=&#34;Google AdWords 關鍵字工具&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;社交媒體服務&#34;&gt;社交媒體服務&lt;/h4&gt;
+&lt;p&gt;一種社群型態的網路服務，有助於凝聚志同道合的使用者，在社群成員之間構築出綿密的人際網路。&lt;/p&gt;
+&lt;h4 id=&#34;google-adwords&#34;&gt;Google AdWords&lt;/h4&gt;
+&lt;p&gt;在搜尋結果網頁和其他內容上投放相關廣告的廣告服務。當使用者使用 Google 搜尋關鍵字時，搜尋結果頁面上除了會顯示基本搜尋結果之外，頁面的右側、頂端和 / 或底部也會顯示與這些關鍵字相關的 AdWords 廣告。&lt;/p&gt;
+&lt;h2 id=&#34;網站內容做法&#34;&gt;網站內容做法&lt;/h2&gt;
+&lt;h3 id=&#34;撰寫容易閱讀的文字&#34;&gt;撰寫容易閱讀的文字&lt;/h3&gt;
+&lt;p&gt;使用者喜愛行文流暢且淺顯易讀的內容。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;撰寫篇幅冗長，夾帶很多錯字和文法錯誤的內容&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;將文字內容嵌入圖片中，導致使用者無法剪貼這些文字，而搜尋引擎也無法讀取這些內容&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;根據主題編排內容&#34;&gt;根據主題編排內容&lt;/h3&gt;
+&lt;p&gt;妥善編排您的內容是很好的作法，這樣可以讓訪客清楚瞭解文章脈絡，快速找到內容主題的開頭和結尾。將您的內容按照邏輯分段，有助於使用者更快找到他們所需要的內容。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;把各種不同主題的內容堆砌在同一個頁面上，而沒有任何段落、次標題或版面配置的分別&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;創作新穎而獨特的內容&#34;&gt;創作新穎而獨特的內容&lt;/h3&gt;
+&lt;p&gt;新的內容不僅能保證現有訪客會再次瀏覽網站，還會帶來更多新訪客。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;重述(甚至是複製)現有內容，這樣做並不會為使用者帶來其他好處&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;讓您的網站含有重複或幾近重複的內容版本(如需更多資訊，請瀏覽&lt;a href=&#34;https://support.google.com/webmasters/answer/66359&#34;&gt;重複的內容&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;為使用者創作內容而不是為搜尋引擎創作內容&#34;&gt;為使用者創作內容，而不是為搜尋引擎創作內容&lt;/h3&gt;
+&lt;p&gt;根據訪客的需求設計您的網站，同時確保搜尋引擎可以輕鬆存取您的網站，這樣通常會產生正面的結果。行動&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;針對搜尋引擎插入大量不必要的關鍵字，這些關鍵字對使用者毫無意義且令人感到厭煩&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;包含「連至這個網頁的常見拼字錯誤」這樣的文字，這對使用者而言毫無意義&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;欺騙性地對使用者&lt;a href=&#34;https://support.google.com/webmasters/answer/66353&#34;&gt;隱藏一些文字&lt;/a&gt;，卻對搜尋引擎顯示這些文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adwords.google.com.tw/KeywordPlanner&#34;&gt;關鍵字工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/trends/topcharts&#34;&gt;Google 搜尋趨勢 - 所有類別熱門排行榜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/trends/&#34;&gt;Google 搜尋趨勢&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/trends/explore&#34;&gt;Google 搜尋趨勢 - Google 網頁搜尋的熱門度 - 全球, 2004年至今&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adwords.google.com/KeywordPlanner&#34;&gt;Google AdWords 關鍵字規劃工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketing.tw.campaign.yahoo.net/emarketing/searchMarketing/test/preview&#34;&gt;Yahoo關鍵字廣告 - 搜尋量測試&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.yahoo.com/kb/yahoo-merchant-solutions/submit-sitemap-file-search-engines-sln19497.html&#34;&gt;Yahoo Merchant Solutions | - SLN19497 - Submit your sitemap to search engines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketing.tw.campaign.yahoo.net/emarketing/searchMarketing/test/result&#34;&gt;Yahoo關鍵字廣告 - 關鍵字搜尋量與建議工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/66359&#34;&gt;重複的內容&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/66353&#34;&gt;隱藏一些文字&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adwords.google.com.tw/KeywordPlanner&#34;&gt;關鍵字工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/trends/topcharts&#34;&gt;Google 搜尋趨勢 - 所有類別熱門排行榜&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;中國搜尋引擎搜尋趨勢&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://index.baidu.com/&#34;&gt;百度指数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hot.baidu.com/&#34;&gt;百度沸點&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://top.baidu.com/&#34;&gt;百度搜索風雲榜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://top.sogou.com/&#34;&gt;搜狗每日熱搜詞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.swkong.com/keywords&#34;&gt;孫悟空關鍵字&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 連結</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/link/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/link/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;連結說明&#34;&gt;連結說明&lt;/h2&gt;
+&lt;h3 id=&#34;合適的錨定文字使被連結內容更易於傳遞&#34;&gt;合適的錨定文字使被連結內容更易於傳遞&lt;/h3&gt;
+&lt;p&gt;錨定文字是可點擊的文字，使用者按一下之後會被導向某個連結，錨定文字位於錨定標記 &lt;code&gt;&amp;lt;a href=&amp;quot;...&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt; 中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/link/guide-link-1.png&#34; alt=&#34;連結語法&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;這類文字會告知使用者和-google-有關您所要連結網頁的部分內容&#34;&gt;這類文字會告知使用者和 Google 有關您所要連結網頁的部分內容。&lt;/h3&gt;
+&lt;p&gt;您網頁上的連結可能是內部連結 (即指向您網站上其他網頁的連結)，也可能是外部連結 (即指向其他網站內容的連結)。無論是哪種情況，您的錨定文字寫得越詳細，使用者就越容易瀏覽，Google 也越容易瞭解您所連結的網頁內容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/link/guide-link-2.png&#34; alt=&#34;連結文字&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;css&#34;&gt;CSS&lt;/h4&gt;
+&lt;p&gt;階層式樣式表 (Cascading Style Sheet) 的縮寫，是用於定義網頁設計和版面配置的&lt;/p&gt;
+&lt;h4 id=&#34;文字樣式&#34;&gt;文字樣式&lt;/h4&gt;
+&lt;p&gt;文字的字型、大小及顏色等格式。一種語言。&lt;/p&gt;
+&lt;h2 id=&#34;連結做法&#34;&gt;連結做法&lt;/h2&gt;
+&lt;h3 id=&#34;選擇描述性文字&#34;&gt;選擇描述性文字&lt;/h3&gt;
+&lt;p&gt;您選擇用於連結的錨定文字至少應提供有關連結網頁的基本訊息。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;無具體含義的錨定文字，例如「網頁」、「文章」或「按一下這裡&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用偏離主題或與連結網頁內容無關的文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在多數情況下，使用網頁網址作為錨定文字(某些情況可以這麼做，例如宣傳或參照某個新網站的網址)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;撰寫簡明的文字&#34;&gt;撰寫簡明的文字&lt;/h3&gt;
+&lt;p&gt;力求使用簡單明瞭的文字，通常是使用一些字詞或簡短的詞組。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;撰寫較長的錨定文字，例如長句或是一小段文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;將連結格式化以便於辨識&#34;&gt;將連結格式化，以便於辨識&lt;/h3&gt;
+&lt;p&gt;讓使用者容易區分您連結中的普通文字和錨定文字。如果使用者未注意到連結或在偶然情況下才會按一下連結，則內容的實用性就會大打折扣。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用會使連結看起來與普通文字無異的CSS或文字樣式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;同時考慮內部連結的錨定文字&#34;&gt;同時考慮內部連結的錨定文字&lt;/h3&gt;
+&lt;p&gt;您可能通常只會考慮指向外部網站的連結，但是多加注意用於內部連結的錨定文字可以幫助使用者和Google更容易瀏覽您的網站。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;只是為了搜尋引擎而使用大量關鍵字或冗長的錨定文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;建立不必要的連結，這對使用者瀏覽網站無益選&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 連結 nofollow</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/no-follow-link/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/no-follow-link/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;連結-nofollow-說明&#34;&gt;連結 nofollow 說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用nofollow對抗垃圾評論&#34;&gt;使用「nofollow」對抗垃圾評論&lt;/h3&gt;
+&lt;p&gt;將某個連結的「rel」屬性值設定為「nofollow」，便會告知 Google 不應隨著您網站上的某些連結連至他處，也不應將您網頁的信譽情況傳給連上的網頁。不隨著某個連結連至他處的方法是，在連結的錨定標記中新增&lt;code&gt;rel=&amp;quot;nofollow&amp;quot;&lt;/code&gt; (1)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/no-follow-link/guide-no-follow-link-1.png&#34; alt=&#34;連結使用 no follow&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Nofollow 在什麼情況下會有用呢?如果您網站中的某個網誌開啟公眾評論功能，則這些評論中的連結可能將您的信譽傳給您不願擔保的網頁。網頁上的網誌評論區經常充滿垃圾評論 (2)。如果不隨著這些使用者新增的連結連至他處，則可確保您不會將您的網頁辛苦得到的信譽傳給垃圾網站。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/no-follow-link/guide-no-follow-link-2.png&#34; alt=&#34;對評論使用 no follow&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;自動對評論欄和訊息板新增nofollow&#34;&gt;自動對評論欄和訊息板新增「nofollow」&lt;/h3&gt;
+&lt;p&gt;許多網誌軟體封包會自動對使用者評論使用 nofollow; 但是對於不具這項功能的網誌軟體封包，幾乎都可以對此進行手動編輯。此建議還適用於您網站中其他可能涉及使用者產生內容的區域，例如訪客留言、論壇、呼叫板、參照清單等。如果您願意擔保由第三方 (例如您的網站信任某個評論者) 新增的連結，則無需對這些連結使用 nofollow; 不過，如果您連至 Google 視為垃圾網站的網站，則會使您自己網站的信譽受到影響。「網站管理員說明中心」提供了更多有關&lt;a href=&#34;https://support.google.com/webmasters/answer/81749&#34;&gt;避免垃圾評論&lt;/a&gt;的提示，例如使用人機驗證 (CAPTCHAs) 和開啟評論管理功能 (3)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/no-follow-link/guide-no-follow-link-3.png&#34; alt=&#34;CAPTCHA 避免垃圾評論&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;對個別內容所有網頁等使用nofollow&#34;&gt;對個別內容、所有網頁等使用「nofollow」&lt;/h2&gt;
+&lt;p&gt;當您要撰寫內容，並想要參照某個網站，但是又不想把您的信譽傳給該網站時，也可以使用 nofollow。例如，想像您正在撰寫一篇以垃圾評論為主題的網誌文章，並打算揭發一個最近經常在您網誌上發表垃圾評論的網站。您希望提醒其他人對該網站提高警惕，因此您將該網站的連結納入了您的內容中; 不過，您絕對不希望透過您的連結將自己網站的信譽傳給這個網站。這個時候使用 nofollow 再合適不過了。&lt;/p&gt;
+&lt;p&gt;最後，如果您有意不隨著網頁中的任何連結連至他處，則可在您的 robots 中繼標記中使用「nofollow」，將這個 robots 中繼標記放入該網頁HTML的 &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 標記中(4)。「網站管理員中心網誌」提供了一篇有關使用 &lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/03/using-robots-meta-tag.html&#34;&gt;robots 中繼標記&lt;/a&gt;的實用文章。這種方法的寫法是 &lt;code&gt;&amp;lt;metaname=&amp;quot;robots&amp;quot;content=&amp;quot;nofollow&amp;quot;&amp;gt;&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/no-follow-link/guide-no-follow-link-4.png&#34; alt=&#34;告訴 robot 整頁的連結不 follow 其他網站&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;垃圾評論&#34;&gt;垃圾評論&lt;/h4&gt;
+&lt;p&gt;網誌評論欄或訊息板上隨意發佈的文章或廣告，與所言網頁內容沒有任何關聯。&lt;/p&gt;
+&lt;h4 id=&#34;人機驗證-captcha&#34;&gt;人機驗證 (CAPTCHA)&lt;/h4&gt;
+&lt;p&gt;全自動公開化塗林測驗人機辨識。&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/81749&#34;&gt;避免垃圾評論&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/03/using-robots-meta-tag.html&#34;&gt;robots 中繼標記&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,93 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – 網址結構</title>
+    <link>https://seo-for-newbie.kejyun.com/tags/%E7%B6%B2%E5%9D%80%E7%B5%90%E6%A7%8B/</link>
+    <description>Recent content in 網址結構 on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/tags/%E7%B6%B2%E5%9D%80%E7%B5%90%E6%A7%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 網址結構</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/url-structure/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/url-structure/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;網站架構說明&#34;&gt;網站架構說明&lt;/h2&gt;
+&lt;h3 id=&#34;簡單易懂的-url-能夠更加容易的表達內容訊息&#34;&gt;簡單易懂的 URL 能夠更加容易的表達內容訊息&lt;/h3&gt;
+&lt;p&gt;為網站上的文件建立描述明確的類別和檔案名稱，不僅有助於使網站更井然有序，還有助於搜尋引擎更有效的檢索您的文件。此外，對於那些想連結到您內容的使用者，這樣可以建立更簡單、「友善」的網址。訪客可能會被過於冗長、隱晦不明，包含很少可識別文字的網址嚇到。
+類似 (1) 這樣的網址會讓使用者感到困惑，並產生不友善的感覺。使用者在記憶這樣的網址或為其建立連結的時候，會感到困難。而且，使用者可能會認為某一部分的網址是不需要的，特別是當這個網址顯示了很多難以識別的參數。使用者可能會去掉網址的一部分，導致連結失效。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-structure/guide-web-structure-1.png&#34; alt=&#34;讓使用者及搜尋引擎感到困惑的網址&#34;&gt;&lt;/p&gt;
+&lt;p&gt;某些使用者可能將該網頁的網址作為錨定文字，以連結到您的網 頁。如果您的網址包含了相關的文字，與提供一個ID或奇怪命名 的參數相比，可以為使用者和搜尋引擎提供更多的資訊(2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-structure/guide-web-structure-1.png&#34; alt=&#34;讓使用者及搜尋引擎容易辨別的網址&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;網址顯示於搜尋結果中&#34;&gt;網址顯示於搜尋結果中&lt;/h3&gt;
+&lt;p&gt;最後，請記得文件的網址會作為 Google 搜尋結果的一部分，顯示在文件的標題和摘要的下方。與標題和摘要一樣，如果網址中的文字出現在使用者的查詢中，該文字會在搜尋結果的網址中以粗體顯示 (3)。右側是另外一個例子，顯示了網域某個網頁的網址， 該網頁包含關於稀有棒球卡的一篇文章。比起諸如「&lt;code&gt;www.brandonsbaseballcards.com/article/102125/&lt;/code&gt;」中的 ID 號碼，網址中的文字往往更能吸引搜尋使用者。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-structure/guide-web-structure-1.png&#34; alt=&#34;網址顯示於搜尋結果中&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Google 擅長檢索各種類型的網址結構，即使是非常複雜的網址，也能迎刃而解。但是花一些時間讓您的網址越簡單越好，對於使用者和搜尋引擎都非常有助益。有些網站管理員透過將其&lt;a href=&#34;https://support.google.com/webmasters/answer/40349&#34;&gt;動態網址重寫&lt;/a&gt;為靜態網址來實現這一目的。Google 覺得這樣做並無不妥，但是我們需要提醒一下，這是一項進階程序，如果操作不當，可能會為您網站的檢索帶來麻煩。如要瞭解更多有關良好網址結構的詳情，建議您參閱「網站管理員說明中心」網頁上，關於&lt;a href=&#34;https://support.google.com/webmasters/answer/76329&#34;&gt;建立 Google 友善網址的這篇文章&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;檢索&#34;&gt;檢索&lt;/h4&gt;
+&lt;p&gt;利用搜尋引擎軟體(漫遊器)來探索網站以建立內容索引。&lt;/p&gt;
+&lt;h4 id=&#34;參數&#34;&gt;參數&lt;/h4&gt;
+&lt;p&gt;加在網址當中,用於指定網站行為的資料。&lt;/p&gt;
+&lt;h4 id=&#34;id-工作階段id&#34;&gt;ID (工作階段ID)&lt;/h4&gt;
+&lt;p&gt;對於正在存取系統或網路通訊的使用者進行識別和/或行為管理時所用的資料。&lt;/p&gt;
+&lt;h4 id=&#34;301重新導向&#34;&gt;￼￼￼￼￼301重新導向&lt;/h4&gt;
+&lt;p&gt;HTTP狀態碼(詳見第一頁)。強制網站訪客自動跳到一個指定網址。&lt;/p&gt;
+&lt;h4 id=&#34;子網域&#34;&gt;子網域&lt;/h4&gt;
+&lt;p&gt;指定類別的網域種類,比一般網域小。&lt;/p&gt;
+&lt;h4 id=&#34;根目錄&#34;&gt;根目錄&lt;/h4&gt;
+&lt;p&gt;位於網站樹狀結構頂端的目錄,有時亦稱作「根」。&lt;/p&gt;
+&lt;h2 id=&#34;網站架構做法&#34;&gt;網站架構做法&lt;/h2&gt;
+&lt;h3 id=&#34;在網址中使用文字&#34;&gt;在網址中使用文字&lt;/h3&gt;
+&lt;p&gt;如果網址包含與您網站內容和架構相關的文字，將更能便於訪客瀏覽您的網站。訪客會更容易記住這些網址，並可能更願意連結到這些網址。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用過長並包含不必要參數和工作階段ID的網址&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選擇籠統的名稱，例如「page1.html」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用過度堆砌的關鍵字，例如「baseball-cards-baseball-cards-baseball-cards.htm」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;建立簡單的目錄架構&#34;&gt;建立簡單的目錄架構&lt;/h3&gt;
+&lt;p&gt;使用可以妥善整理內容的目錄架構，並使訪客可以輕鬆得知處於您網站的哪個位置。嘗試使用目錄架構來說明網址上的內容類型。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用類似“&amp;hellip;/dir1/dir2/dir3/dir4/dir5/dir6/page.html”的深層巢狀子目錄&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用與內容無關的目錄&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;為同一文件提供同一版本的網址&#34;&gt;為同一文件提供同一版本的網址&lt;/h3&gt;
+&lt;p&gt;為避免一些使用者連結到某個版本的網址、而其他使用者連結到另一個版本(網址的不同可能會降 低該內容的吸引力)，建議您在網頁架構和內部連結中，集中使用一個網址。如果您確實發現有使用者透過不同的網址來瀏覽同樣的內容，您可以設定 &lt;code&gt;301 重新導向&lt;/code&gt;，將不喜歡的網址重新導向到 您所期望使用的網址，這是一個很好的解決方案。無法重新導向時，您也可以使用標準網頁或 &lt;code&gt;rel=&amp;quot;canonical&amp;quot;&lt;/code&gt; 連結元素。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;無論從子域還是根目錄(例如「&lt;code&gt;domain.com/page.htm&lt;/code&gt;」和「&lt;code&gt;sub.domain.com/page.htm&lt;/code&gt;」)都可以瀏覽到相同的內容&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在網址中使用奇怪的大寫字母(大部分使用者喜歡小寫的網址，並且小寫也便於使用者記憶)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/40349&#34;&gt;動態網址重寫&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/76329&#34;&gt;建立 Google 友善網址的這篇文章&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

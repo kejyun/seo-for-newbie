@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – 標題</title>
+    <link>https://seo-for-newbie.kejyun.com/tags/%E6%A8%99%E9%A1%8C/</link>
+    <description>Recent content in 標題 on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/tags/%E6%A8%99%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 標題</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/web-title/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/web-title/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;網頁標題說明&#34;&gt;網頁標題說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用標題標記來標明網頁標題&#34;&gt;使用標題標記來標明網頁標題&lt;/h3&gt;
+&lt;p&gt;標題標記可讓使用者和搜尋引擎瞭解某個特定網頁的主題。&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt; 標記應該放在HTML文件的&lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;標記區段中(1)。理想情況下, 您應該為網站的每一個網頁建立獨特的網頁標題。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-title/guide-web-title-1.png&#34; alt=&#34;棒球卡首頁標題&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;網頁標題內容顯示於搜尋結果中&#34;&gt;網頁標題內容顯示於搜尋結果中&lt;/h3&gt;
+&lt;p&gt;如果您的文件出現在搜尋結果網頁中,標題標記的內容通常會出 現在搜尋結果的第一行(如果您不熟悉Google搜尋結果的各個組成 部分,請觀看由Google工程師Matt Cutts主講的&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/11/anatomy-of-search-result.html&#34;&gt;搜尋結果剖析影片&lt;/a&gt; ,以及這張實用的&lt;a href=&#34;https://support.google.com/websearch/answer/35891&#34;&gt;Google搜尋結果網頁示意圖&lt;/a&gt;)。如果標題中的文 字出現在使用者的搜尋查詢中,它們會以粗體顯示。這樣有助於 使用者確定這個網頁是否可能和他們的搜尋有關(2)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-title/guide-web-title-2.png&#34; alt=&#34;使用者搜尋結果1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;您首頁的標題可以列出網站/公司名稱,並包括其他一些重要資訊, 例如您公司的實際地址,或是一些主要內容領域或提供的服務(3)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/web-title/guide-web-title-3.png&#34; alt=&#34;使用者搜尋結果2&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;搜尋引擎&#34;&gt;搜尋引擎&lt;/h4&gt;
+&lt;p&gt;利用關鍵字或其他特定字詞,在網際網路上搜尋可用資料的一種電腦功能,或提 供這類功能的程式&lt;/p&gt;
+&lt;h4 id=&#34;head標記&#34;&gt;&lt;head&gt;標記&lt;/h4&gt;
+&lt;p&gt;在HTML文件中標明標題的元素。該元素的內容將不會顯示於瀏覽器。&lt;/p&gt;
+&lt;h4 id=&#34;html&#34;&gt;HTML&lt;/h4&gt;
+&lt;p&gt;超文本標記語言的縮寫,是說明網頁文件的語言。它是網頁的基本元素,包含文 件內容以及任何內嵌的超連結和圖片。&lt;/p&gt;
+&lt;h4 id=&#34;搜尋查詢&#34;&gt;搜尋查詢&lt;/h4&gt;
+&lt;p&gt;使用者在搜尋引擎查詢字詞時,輸入的單一或多個語詞。&lt;/p&gt;
+&lt;h2 id=&#34;網頁標題-seo-做法&#34;&gt;網頁標題 SEO 做法&lt;/h2&gt;
+&lt;h3 id=&#34;準確描述網頁內容&#34;&gt;準確描述網頁內容&lt;/h3&gt;
+&lt;p&gt;選擇可以有效傳達網頁內容主題的標題&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選擇與網頁內容無關的標題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用像「未命名」或「新網頁1」這樣的預設標題或不明確的標題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;為每個網頁建立獨一無二的標題標記&#34;&gt;為每個網頁建立獨一無二的標題標記&lt;/h3&gt;
+&lt;p&gt;每一個網頁最好有一個獨一無二的標題標記,以幫助Google將它和您網站上的其他網頁區別開來。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;對您網站的所有網頁或大部分網頁使用同一個標題標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;使用簡短但描述明確的標題&#34;&gt;使用簡短但描述明確的標題&lt;/h3&gt;
+&lt;p&gt;簡短的標題同樣可以包含豐富的資訊。如果標題太長,Google只會在搜尋結果中顯示其部分內容。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用既冗長又對使用者沒太大用處的標題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在標題標記中堆砌不必要的關鍵字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;參考資料&#34;&gt;參考資料&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/11/anatomy-of-search-result.html&#34;&gt;搜尋結果剖析影片&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/websearch/answer/35891&#34;&gt;Google搜尋結果網頁示意圖&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

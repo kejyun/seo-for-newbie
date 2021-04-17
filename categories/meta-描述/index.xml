@@ -1,0 +1,84 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – Meta 描述</title>
+    <link>https://seo-for-newbie.kejyun.com/categories/meta-%E6%8F%8F%E8%BF%B0/</link>
+    <description>Recent content in Meta 描述 on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/categories/meta-%E6%8F%8F%E8%BF%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Meta 描述</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/meta-description/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/meta-description/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;meta-描述-description-說明&#34;&gt;Meta 描述 (description) 說明&lt;/h2&gt;
+&lt;h3 id=&#34;為每個網頁定義摘要&#34;&gt;為每個網頁定義摘要&lt;/h3&gt;
+&lt;p&gt;網頁的描述中繼標記為 Google 和其他搜尋引擎提供了關於這個網頁的摘要 (1)。網頁標題可以由一些文字或字組構成，而網頁描述中繼標記則可以由一兩個句子或一個簡短段落組成。「Google網 站管理員工具」提供了好用的內容分析工具，可以指出太短、太長或過分重複的描述中繼標記使用簡短但描述明確的標題(此工具 也會指出&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt;標記中同樣的資訊)。與&lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt;標記一樣，描述中 繼標記也位於您HTML文件的&lt;head&gt;標記部分中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/meta-description/guide-meta-description-1.png&#34; alt=&#34;Meta Description&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;描述中繼標記的優點有哪些&#34;&gt;描述中繼標記的優點有哪些?&lt;/h3&gt;
+&lt;p&gt;描述中繼標記是非常重要的，因為 Google 可能會用其內容來產生 您網頁的摘要。我們之所以說「可能」，是因為如果您網頁中有一段相關醒目文字非常符合使用者的查詢，Google 可能會選擇使 用這段文字。除此之外，如果您的網站收錄於&lt;a href=&#34;http://www.dmoz.org/&#34;&gt;開放式目錄專案 (Open Directory Project)&lt;/a&gt;中的話，Google 也可能會使用您網站在其 中的描述(瞭解&lt;a href=&#34;https://support.google.com/webmasters/answer/35624?rd=1&#34;&gt;如何防止搜尋引擎顯示ODP資料&lt;/a&gt;)。為每一個網頁都加入描述中繼標記的話，是一項非常好的做法，這樣即使Google 在網頁上找不到可用作摘要的文字，也可以使用描述中繼標記來生成摘要內容。在網站管理員中心網誌，有一篇關於使用更好的描述中繼標記來&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/09/improve-snippets-with-meta-description.html&#34;&gt;改善網頁摘要的實用文章&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/meta-description/guide-meta-description-2.png&#34; alt=&#34;Meta Description 使用者搜尋結果1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;如果摘要中的文字出現在使用者的查詢中，它們會以粗體顯示 (2)。 這可以幫助使用者判斷此網頁的內容是否符合他（她）想要找的內容 (3)。以下是另一個例子，Google 利用包含一篇文章的深層網頁的 描述中繼標記（此網頁具有非常理想的獨一無二的描述中繼標記產 生了網頁摘要內容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/meta-description/guide-meta-description-3.png&#34; alt=&#34;Meta Description 使用者搜尋結果2&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
+&lt;p&gt;在搜尋引擎的搜尋結果頁面上，顯示於相對應網頁標題底下的文字內容。會顯示網頁摘要和/或符合搜尋關鍵字的網頁部分。&lt;/p&gt;
+&lt;h4 id=&#34;網域&#34;&gt;網域&lt;/h4&gt;
+&lt;p&gt;標明電腦或網路所在位置的網際網路位址，這些位址均受到控管，以免重複。&lt;/p&gt;
+&lt;h4 id=&#34;開放式目錄專案-odp&#34;&gt;開放式目錄專案 (ODP)&lt;/h4&gt;
+&lt;p&gt;全球最大非營利性網站目錄（大規模收集網路連結後，分門別類製作成列表清單）。&lt;/p&gt;
+&lt;h2 id=&#34;meta-描述-description-做法&#34;&gt;Meta 描述 (description) 做法&lt;/h2&gt;
+&lt;h3 id=&#34;準確概括網頁的內容&#34;&gt;準確概括網頁的內容&lt;/h3&gt;
+&lt;p&gt;請撰寫一段可以提供資訊並且吸引使用者的描述，這樣的話，如果使用者在搜尋結果中看到您的 描述中繼標記(作為摘要出現)時，即可吸引使用者的瀏覽興趣。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;撰寫的描述中繼標記與網頁的內容無關&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用籠統的描述，如「這是一個網頁」或「關於棒球卡的網頁」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在描述中只堆砌了一堆關鍵字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;複製文件的所有內容並將其貼至描述中繼標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;為每一個網頁使用獨一無二的描述&#34;&gt;為每一個網頁使用獨一無二的描述&lt;/h3&gt;
+&lt;p&gt;為每一個網頁使用不同描述中繼標記的話，將對使用者和搜尋引擎都有幫助，特別是搜尋結果中 包含多個來自您網域的網頁時(例如，&lt;a href=&#34;http://www.brianwhite.org/2007/04/27/google-site-operator-an-ode-to-thee/&#34;&gt;使用site: 運算子&lt;/a&gt;進行搜尋時)。如果您的網站含有成千上萬 的網頁，精心雕琢描述中繼標記似乎不太可行。在這種情況下，您可以根據每一頁的具體內容， 自動產生描述中繼標記。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;對您網站的所有網頁或大部分網頁使用同一個中繼描述標記&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;控制文字數量&#34;&gt;控制文字數量&lt;/h3&gt;
+&lt;p&gt;雖然搜尋引擎沒有說明字數限制，但明顯過多的文字描述，會被搜尋引擎判斷成有作弊嫌疑的描述文字，建議文字數量以不超過 &lt;code&gt;160&lt;/code&gt; 個英文字符，也就是 &lt;code&gt;80&lt;/code&gt; 個中文字以內。&lt;/p&gt;
+&lt;h3 id=&#34;於meta內重覆關鍵字&#34;&gt;於meta內重覆關鍵字&lt;/h3&gt;
+&lt;p&gt;描述內需包含 1-2 次的關鍵字，這也就是為什麼一個網頁不適合超過3組關鍵詞的原因，因為過多的關鍵詞包含進描述標籤內，則會大大提高作弊的嫌疑，我們可以從搜尋結果看到，前十名幾乎沒有在描述內堆疊關鍵字的網站，主因就是早期在描述標籤內堆疊關鍵字的網站都已經被搜尋引擎清除了。&lt;/p&gt;
+&lt;h3 id=&#34;撰寫吸引人的文案&#34;&gt;撰寫吸引人的文案&lt;/h3&gt;
+&lt;p&gt;因為描述標籤內的文案等同於搜尋結果上所顯示出來代表該網站的描述，因此應該以吸引人的文案優先，吸引瀏覽者點擊才是上策，而不是為了塞入關鍵字，而造成文案變成無法閱讀的狀況。&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.brianwhite.org/2007/04/27/google-site-operator-an-ode-to-thee/&#34;&gt;使用site: 運算子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wide.com.tw/seo-teaching/1024&#34;&gt;SEO教學第11課： 影響網站排名的因素：Meta標籤對SEO優化的作用？ | 免費教學課程：seo關鍵字排名優化，淘寶網路行銷，網站架設網頁設計-台灣映鴻設計網&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dmoz.org/&#34;&gt;開放式目錄專案 (Open Directory Project)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/09/improve-snippets-with-meta-description.html&#34;&gt;改善網頁摘要的實用文章&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

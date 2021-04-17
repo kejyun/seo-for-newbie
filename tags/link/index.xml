@@ -1,0 +1,119 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – Link</title>
+    <link>https://seo-for-newbie.kejyun.com/tags/link/</link>
+    <description>Recent content in Link on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/tags/link/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 連結</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/link/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/link/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;連結說明&#34;&gt;連結說明&lt;/h2&gt;
+&lt;h3 id=&#34;合適的錨定文字使被連結內容更易於傳遞&#34;&gt;合適的錨定文字使被連結內容更易於傳遞&lt;/h3&gt;
+&lt;p&gt;錨定文字是可點擊的文字，使用者按一下之後會被導向某個連結，錨定文字位於錨定標記 &lt;code&gt;&amp;lt;a href=&amp;quot;...&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt; 中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/link/guide-link-1.png&#34; alt=&#34;連結語法&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;這類文字會告知使用者和-google-有關您所要連結網頁的部分內容&#34;&gt;這類文字會告知使用者和 Google 有關您所要連結網頁的部分內容。&lt;/h3&gt;
+&lt;p&gt;您網頁上的連結可能是內部連結 (即指向您網站上其他網頁的連結)，也可能是外部連結 (即指向其他網站內容的連結)。無論是哪種情況，您的錨定文字寫得越詳細，使用者就越容易瀏覽，Google 也越容易瞭解您所連結的網頁內容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/link/guide-link-2.png&#34; alt=&#34;連結文字&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;css&#34;&gt;CSS&lt;/h4&gt;
+&lt;p&gt;階層式樣式表 (Cascading Style Sheet) 的縮寫，是用於定義網頁設計和版面配置的&lt;/p&gt;
+&lt;h4 id=&#34;文字樣式&#34;&gt;文字樣式&lt;/h4&gt;
+&lt;p&gt;文字的字型、大小及顏色等格式。一種語言。&lt;/p&gt;
+&lt;h2 id=&#34;連結做法&#34;&gt;連結做法&lt;/h2&gt;
+&lt;h3 id=&#34;選擇描述性文字&#34;&gt;選擇描述性文字&lt;/h3&gt;
+&lt;p&gt;您選擇用於連結的錨定文字至少應提供有關連結網頁的基本訊息。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;無具體含義的錨定文字，例如「網頁」、「文章」或「按一下這裡&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用偏離主題或與連結網頁內容無關的文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在多數情況下，使用網頁網址作為錨定文字(某些情況可以這麼做，例如宣傳或參照某個新網站的網址)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;撰寫簡明的文字&#34;&gt;撰寫簡明的文字&lt;/h3&gt;
+&lt;p&gt;力求使用簡單明瞭的文字，通常是使用一些字詞或簡短的詞組。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;撰寫較長的錨定文字，例如長句或是一小段文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;將連結格式化以便於辨識&#34;&gt;將連結格式化，以便於辨識&lt;/h3&gt;
+&lt;p&gt;讓使用者容易區分您連結中的普通文字和錨定文字。如果使用者未注意到連結或在偶然情況下才會按一下連結，則內容的實用性就會大打折扣。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用會使連結看起來與普通文字無異的CSS或文字樣式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;同時考慮內部連結的錨定文字&#34;&gt;同時考慮內部連結的錨定文字&lt;/h3&gt;
+&lt;p&gt;您可能通常只會考慮指向外部網站的連結，但是多加注意用於內部連結的錨定文字可以幫助使用者和Google更容易瀏覽您的網站。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;請避免 :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;只是為了搜尋引擎而使用大量關鍵字或冗長的錨定文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;建立不必要的連結，這對使用者瀏覽網站無益選&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 連結 nofollow</title>
+      <link>https://seo-for-newbie.kejyun.com/docs/guide/no-follow-link/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/docs/guide/no-follow-link/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;連結-nofollow-說明&#34;&gt;連結 nofollow 說明&lt;/h2&gt;
+&lt;h3 id=&#34;使用nofollow對抗垃圾評論&#34;&gt;使用「nofollow」對抗垃圾評論&lt;/h3&gt;
+&lt;p&gt;將某個連結的「rel」屬性值設定為「nofollow」，便會告知 Google 不應隨著您網站上的某些連結連至他處，也不應將您網頁的信譽情況傳給連上的網頁。不隨著某個連結連至他處的方法是，在連結的錨定標記中新增&lt;code&gt;rel=&amp;quot;nofollow&amp;quot;&lt;/code&gt; (1)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/no-follow-link/guide-no-follow-link-1.png&#34; alt=&#34;連結使用 no follow&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Nofollow 在什麼情況下會有用呢?如果您網站中的某個網誌開啟公眾評論功能，則這些評論中的連結可能將您的信譽傳給您不願擔保的網頁。網頁上的網誌評論區經常充滿垃圾評論 (2)。如果不隨著這些使用者新增的連結連至他處，則可確保您不會將您的網頁辛苦得到的信譽傳給垃圾網站。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/no-follow-link/guide-no-follow-link-2.png&#34; alt=&#34;對評論使用 no follow&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;自動對評論欄和訊息板新增nofollow&#34;&gt;自動對評論欄和訊息板新增「nofollow」&lt;/h3&gt;
+&lt;p&gt;許多網誌軟體封包會自動對使用者評論使用 nofollow; 但是對於不具這項功能的網誌軟體封包，幾乎都可以對此進行手動編輯。此建議還適用於您網站中其他可能涉及使用者產生內容的區域，例如訪客留言、論壇、呼叫板、參照清單等。如果您願意擔保由第三方 (例如您的網站信任某個評論者) 新增的連結，則無需對這些連結使用 nofollow; 不過，如果您連至 Google 視為垃圾網站的網站，則會使您自己網站的信譽受到影響。「網站管理員說明中心」提供了更多有關&lt;a href=&#34;https://support.google.com/webmasters/answer/81749&#34;&gt;避免垃圾評論&lt;/a&gt;的提示，例如使用人機驗證 (CAPTCHAs) 和開啟評論管理功能 (3)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/no-follow-link/guide-no-follow-link-3.png&#34; alt=&#34;CAPTCHA 避免垃圾評論&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;對個別內容所有網頁等使用nofollow&#34;&gt;對個別內容、所有網頁等使用「nofollow」&lt;/h2&gt;
+&lt;p&gt;當您要撰寫內容，並想要參照某個網站，但是又不想把您的信譽傳給該網站時，也可以使用 nofollow。例如，想像您正在撰寫一篇以垃圾評論為主題的網誌文章，並打算揭發一個最近經常在您網誌上發表垃圾評論的網站。您希望提醒其他人對該網站提高警惕，因此您將該網站的連結納入了您的內容中; 不過，您絕對不希望透過您的連結將自己網站的信譽傳給這個網站。這個時候使用 nofollow 再合適不過了。&lt;/p&gt;
+&lt;p&gt;最後，如果您有意不隨著網頁中的任何連結連至他處，則可在您的 robots 中繼標記中使用「nofollow」，將這個 robots 中繼標記放入該網頁HTML的 &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 標記中(4)。「網站管理員中心網誌」提供了一篇有關使用 &lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/03/using-robots-meta-tag.html&#34;&gt;robots 中繼標記&lt;/a&gt;的實用文章。這種方法的寫法是 &lt;code&gt;&amp;lt;metaname=&amp;quot;robots&amp;quot;content=&amp;quot;nofollow&amp;quot;&amp;gt;&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/no-follow-link/guide-no-follow-link-4.png&#34; alt=&#34;告訴 robot 整頁的連結不 follow 其他網站&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;名詞解釋&#34;&gt;名詞解釋&lt;/h3&gt;
+&lt;h4 id=&#34;垃圾評論&#34;&gt;垃圾評論&lt;/h4&gt;
+&lt;p&gt;網誌評論欄或訊息板上隨意發佈的文章或廣告，與所言網頁內容沒有任何關聯。&lt;/p&gt;
+&lt;h4 id=&#34;人機驗證-captcha&#34;&gt;人機驗證 (CAPTCHA)&lt;/h4&gt;
+&lt;p&gt;全自動公開化塗林測驗人機辨識。&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf&#34;&gt;Google 搜尋引擎最佳化 初學者指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.google.com/webmasters/answer/81749&#34;&gt;避免垃圾評論&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.tw/2007/03/using-robots-meta-tag.html&#34;&gt;robots 中繼標記&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
