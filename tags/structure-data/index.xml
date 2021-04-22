@@ -5,7 +5,7 @@
     <description>Recent content in Structure Data on SEO 菜雞修煉場</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://seo-for-newbie.kejyun.com/tags/structure-data/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,25 @@
         &lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://search.google.com/test/rich-results&#34;&gt;複合式搜尋結果測試 - Google Search Console&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://search.google.com/structured-data/testing-tool&#34;&gt;結構化資料測試工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/webmasters/markup-helper/u/0/&#34;&gt;結構化資料標記協助工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.minwt.com/website/wordpress/18850.html&#34;&gt;Google官方提供網頁「結構化資料標記」產生器，並套用到WordPress中|梅問題．教學網&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Code: 結構化資料</title>
+      <link>https://seo-for-newbie.kejyun.com/code/structured-data/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/code/structured-data/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://search.google.com/structured-data/testing-tool&#34;&gt;結構化資料測試工具&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.google.com/webmasters/markup-helper/u/0/&#34;&gt;結構化資料標記協助工具&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.minwt.com/website/wordpress/18850.html&#34;&gt;Google官方提供網頁「結構化資料標記」產生器，並套用到WordPress中|梅問題．教學網&lt;/a&gt;&lt;/li&gt;

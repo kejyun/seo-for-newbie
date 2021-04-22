@@ -24,7 +24,13 @@
       <description>
         
         
-        &lt;h2 id=&#34;套件&#34;&gt;套件&lt;/h2&gt;
+        &lt;h2 id=&#34;測試&#34;&gt;測試&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/speed/pagespeed/insights/&#34;&gt;PageSpeed Insights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://testmysite.thinkwithgoogle.com/&#34;&gt;Mobile Website Speed Testing Tool - Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://varvy.com/&#34;&gt;Varvy SEO tool and optimization guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;套件&#34;&gt;套件&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc/related?utm_source=chrome-ntp-icon&#34;&gt;SEOquake - Chrome Web Store&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/open-in-semrush/chgblofegkokcojhgjfgfdbgbcalnpml?utm_source=chrome-ntp-icon&#34;&gt;Open in SEMrush - Chrome Web Store&lt;/a&gt;&lt;/li&gt;

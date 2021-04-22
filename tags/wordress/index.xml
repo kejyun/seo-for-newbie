@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO 菜雞修煉場 – Wordress</title>
+    <link>https://seo-for-newbie.kejyun.com/tags/wordress/</link>
+    <description>Recent content in Wordress on SEO 菜雞修煉場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 22 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://seo-for-newbie.kejyun.com/tags/wordress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Code: Wordress</title>
+      <link>https://seo-for-newbie.kejyun.com/code/server/nginx/wordpress/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://seo-for-newbie.kejyun.com/code/server/nginx/wordpress/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;wp-content-重新導向整個目錄至子網域subdomain&#34;&gt;wp-content 重新導向整個目錄至子網域（subdomain）&lt;/h2&gt;
+&lt;p&gt;若網站做改版，不再用 Wordpress 時，Wordpress 中的圖片可以使用 Nginx 做重新導向，在 Nginx 設定檔設定下方轉址方式即可&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;server {
+    rewrite ^(/wp-content/uploads)(.*)$ https://assets.kejyun.com$2 permanent;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/34234008/nginx-redirect-301-the-entire-content-of-the-folder-to-a-subdomain&#34;&gt;wordpress - Nginx redirect 301 the entire content of the folder to a subdomain - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
